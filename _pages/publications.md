@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications"
-layout: publication
+layout: publications
 publications:
   - title: "test"
     authors: test1, test2, test3
