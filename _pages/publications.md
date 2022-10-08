@@ -1,16 +1,18 @@
 ---
-layout: archive
-title: "Publications"
 permalink: /publications/
-author_profile: true
+title: "Publications"
+layout: publication
+publications:
+  - title: "test"
+    authors: test1, test2, test3
+    venue: "IEEE International Conference on"
+    doi:  
+    year: 2022
+    type: conferences
+  - title: test
+    authors: CL
+    venue: IEEE
+    doi: 
+    year: 2022
+    type: journal
 ---
-author_profile
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
