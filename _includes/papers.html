@@ -3,7 +3,7 @@
 
 {% for publication in include.publications %}
     {% capture publication_title %}
-        {{ publication.title }}
+        {{ publication.title | capitalize }}
     {% endcapture %}
     {% capture publication_authors %}
         {{ publication.authors }}
