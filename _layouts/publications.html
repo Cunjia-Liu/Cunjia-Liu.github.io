@@ -88,7 +88,7 @@ layout: single
         {% assign 2015_items = page.publications | where: "year", "2015" %}
         {% assign 2014_items = page.publications | where: "year", "2014" %}
         {% assign 2013_items = page.publications | where: "year", "2013" %}
-        {% assign 2012_items = page.publications | where: "year", "2012" %}
+        {% assign 2012_items = page.publications | where: "year", "2012"||"2013" %}
         <div id="2022-publications">
             <h3>2022</h3>
             <ol class="biblist" reversed>
