@@ -26,14 +26,14 @@ publications:
     type: journals
     video: 
   - title: test 3
-    authors: CL
+    authors: CL 2013
     venue: IEEE journal 2
     doi: 
     year: 2013
     type: journals
     video: 
   - title: test 3
-    authors: CL
+    authors: CL 2012
     venue: IEEE journal 2
     doi: 
     year: 2012
