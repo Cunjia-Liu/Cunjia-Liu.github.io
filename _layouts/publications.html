@@ -55,7 +55,7 @@ layout: single
         {% assign bookChapters_items = page.publications | where: "type", "bookChapters" %}
         <div id="journal-publications">
             <h3>Journals</h3>
-            <ol class="biblist-by-type" reversed>
+            <ol class="archive__item-excerpt" reversed>
                 {% include papers.html publications=journal_items %}
             </ol>
         </div>
