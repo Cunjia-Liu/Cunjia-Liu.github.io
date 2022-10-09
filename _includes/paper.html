@@ -21,4 +21,10 @@
         <a href="{{ pdf_stripped }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
 <!--        [<a href="{{ pdf_stripped }}" target="_blank">DOI</a>]-->
     {% endif %}
+    {% assign video_stripped = include.video | strip %}
+    {% if video_stripped == "" %}
+        <!-- [Video] -->
+    {% else %}
+        <a href="{{ video_stripped }}"><i class="fas fa-fw fa-video zoom" aria-hidden="true"></i></a>
+    {% endif %}
 </li>
