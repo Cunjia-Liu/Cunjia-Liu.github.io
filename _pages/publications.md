@@ -6,7 +6,7 @@ author_profile: true
 publications:
 # 2022 journals
   - title: "Autonomous Source Term Estimation in Unknown Environments: From a Dual Control Concept to UAV Deployment"
-    authors: C. Rhodes, C. Liu*, W.-H. Chen
+    authors: C. Rhodes, C. Liu<b>*</b>, W.-H. Chen
     venue: "IEEE Robotics and Automation Letters 7 (2), 2274-2281"
     doi: https://doi.org/10.1109/LRA.2022.3143890
     year: 2022
