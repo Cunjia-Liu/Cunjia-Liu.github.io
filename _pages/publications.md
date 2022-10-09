@@ -2,6 +2,7 @@
 permalink: /publications/
 title: "Publications"
 layout: publications
+author_profile: true
 publications:
   - title: "test"
     authors: test1, test2, test3
