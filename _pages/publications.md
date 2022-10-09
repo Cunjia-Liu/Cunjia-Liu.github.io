@@ -25,6 +25,20 @@ publications:
     year: 2019
     type: journals
     video: 
+  - title: test 3
+    authors: CL
+    venue: IEEE journal 2
+    doi: 
+    year: 2013
+    type: journals
+    video: 
+  - title: test 3
+    authors: CL
+    venue: IEEE journal 2
+    doi: 
+    year: 2012
+    type: journals
+    video: 
 ---
 
 
