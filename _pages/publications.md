@@ -56,6 +56,27 @@ publications:
     type: journals
     video: 
 # 2022 conferences 
+  - title: "Consensus-Based distributed source term estimation with particle filter and GM"
+    authors: Y. Liu, M. Coombes, C. Liu
+    venue: "ROBOT2022: Fifth Iberian Robotics Conference"
+    doi: 
+    year: 2022
+    type: conferences
+    video:   
+  - title: "Scalable probabilistic gas distribution mapping using Gaussian belief propagation"
+    authors: C. Rhodes, C. Liu, W.-H. Chen
+    venue: " 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
+    doi: 
+    year: 2022
+    type: conferences
+    video:   
+  - title: "Deep CNN based droplet deposition segmentation for spray distribution assessment"
+    authors: T. Chen, Y. Meng, J. Su, C. Liu
+    venue: "2022 27th International Conference on Automation and Computing (ICAC)"
+    doi: 
+    year: 2022
+    type: conferences
+    video: 
   - title: "Visibility Informed Bernoulli Filter for Target Tracking in Cluttered Environments"
     authors: T. J. Glover, C. Liu, W.-H. Chen
     venue: "2022 25th International Conference on Information Fusion (FUSION)"
@@ -70,6 +91,7 @@ publications:
     year: 2022
     type: conferences
     video: 
+# 2021 journals
   - title: ""
     authors:
     venue: 
@@ -93,7 +115,3 @@ publications:
     type: journals
     video: 
 ---
-
-
-
-<sup>*</sup> Equal authorship
