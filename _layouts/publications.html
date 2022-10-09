@@ -91,14 +91,14 @@ layout: single
         {% assign 2014_items = page.publications | where: "year", "2014" %}
         {% assign 2013_items = page.publications | where: "year", "2013" %}
         <div id="2022-publications">
-            <h4>2022</h4>
-            <ol class="biblist-by-year" reversed>
+            <h3>2022</h3>
+            <ol class="page__content" reversed>
                 {% include papers.html publications=2022_items %}
             </ol>
         </div>
         <div id="2021-publications">
-            <h4>2021</h4>
-            <ol class="biblist-by-year" reversed>
+            <h3>2021</h3>
+            <ol class="page__content" reversed>
                 {% include papers.html publications=2021_items %}
             </ol>
         </div>
