@@ -20,6 +20,9 @@
     {% capture publication_type %}
         {{publication.type}}
     {% endcapture %}
+    {% capture publication_video %}
+        {{publication.video}}
+    {% endcapture %}
     {% include paper.html
         authors=publication_authors
         title=publication_title
@@ -27,5 +30,6 @@
         doi=publication_doi
         pdf=publication_pdf
         type=publication_type
+        video=publication_video
     %}
 {% endfor %}
