@@ -78,6 +78,7 @@ layout: single
     </div>
 
     <div id="all-by-year">
+        {% assign online_items = page.publications | where: "year", "online" %}
         {% assign 2022_items = page.publications | where: "year", "2022" %}
         {% assign 2021_items = page.publications | where: "year", "2021" %}
         {% assign 2020_items = page.publications | where: "year", "2020" %}
@@ -90,6 +91,12 @@ layout: single
         {% assign 2013_items = page.publications | where: "year", "2013" %}
         {% assign 2012_items = page.publications | where: "year", "2012" %}
         {% assign 2012_items = page.publications | where: "year", "2013" %}
+        <div id="online-publications">
+            <h3>Published online</h3>
+            <ol class="biblist" reversed>
+                {% include papers.html publications=online_items %}
+            </ol>
+        </div>
         <div id="2022-publications">
             <h3>2022</h3>
             <ol class="biblist" reversed>
