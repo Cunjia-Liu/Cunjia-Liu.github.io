@@ -9,21 +9,21 @@ publications:
     authors: Y. Liu, Z. Wang, C. Liu, M. Coombes, W.-H. Chen
     venue: "IEEE Transactions on Signal and Information Processing over Networks, 2022"
     doi: https://doi.org/10.1109/TSIPN.2022.3212318
-    year: 2022
+    year: online
     type: journals
     video: 
   - title: "Autonomous search of an airborne release in urban environments using informed tree planning"
     authors: C. Rhodes, C. Liu<b>*</b>, P. Westoby, W.-H. Chen
     venue: "Autonomous Robots, 2022"
     doi: https://doi.org/10.1007/s10514-022-10063-8
-    year: 2022
+    year: online
     type: journals
     video: 
   - title: "A Novel Algorithm for Quantized Particle Filtering with Multiple Degrading Sensors: Degradation Estimation and Target Tracking"
     authors: Y. Liu, Z. Wang, C. Liu, M. Coombes, W.-H. Chen
     venue: "IEEE Transactions on Industrial Informatics, 2022"
     doi: https://doi.org/10.1109/TII.2022.3176910
-    year: 2022
+    year: online
     type: journals
     video: 
 # 2022 journals
