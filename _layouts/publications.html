@@ -26,8 +26,6 @@ layout: single
                 $('.biblist li').hide().filter('[type=journals]').show();
             } else if (this.value == 'conferences') {
                 $('.biblist li').hide().filter('[type=conferences]').show();
-            } else if (this.value == 'workshopsSpecialTracks') {
-                $('.biblist li').hide().filter('[type=workshopsSpecialTracks]').show();
             } else if (this.value == 'bookChapters') {
                 $('.biblist li').hide().filter('[type=bookChapters]').show();
             }
@@ -38,7 +36,6 @@ layout: single
         <option selected value = "all-by-year">ALL - by year</option>
         <option value = "journals">Journals</option>
         <option value = "conferences">Conferences</option>
-        <option value = "workshopsSpecialTracks">Workshops and Special Tracks</option>
         <option value = "bookChapters">Book Chapters</option>
     </select>
 
@@ -51,30 +48,29 @@ layout: single
     <div id="all-by-type" style="display: None">
         {% assign journal_items = page.publications | where: "type", "journals" %}
         {% assign conference_items = page.publications | where: "type", "conferences" %}
-        {% assign workshopsSpecialTracks_items = page.publications | where: "type", "workshopsSpecialTracks" %}
         {% assign bookChapters_items = page.publications | where: "type", "bookChapters" %}
         <div id="journal-publications">
             <h3>Journals</h3>
-            <ol class="page__content" reversed>
+            <ol class="biblist" reversed>
                 {% include papers.html publications=journal_items %}
             </ol>
         </div>
         <div id="conference-publications">
             <h3>Conferences</h3>
-            <ol class="biblist-by-type" reversed>
+            <ol class="biblist" reversed>
                 {% include papers.html publications=conference_items %}
             </ol>
         </div>
 <!--
         <div id="workshopsSpecialTracks-publications">
             <h3>Workshops and Special Tracks</h3>
-            <ol class="biblist-by-type" reversed>
+            <ol class="biblist" reversed>
                 {% include papers.html publications=workshopsSpecialTracks_items %}
             </ol>
         </div>
         <div id="bookChapters-publications">
             <h3>Book Chapters</h3>
-            <ol class="biblist-by-type" reversed>
+            <ol class="biblist" reversed>
                 {% include papers.html publications=bookChapters_items %}
             </ol>
         </div>
@@ -95,67 +91,67 @@ layout: single
         {% assign 2012_items = page.publications | where: "year", "2012" %}
         <div id="2022-publications">
             <h3>2022</h3>
-            <ol class="page__content" reversed>
+            <ol class="biblist" reversed>
                 {% include papers.html publications=2022_items %}
             </ol>
         </div>
         <div id="2021-publications">
             <h3>2021</h3>
-            <ol class="page__content" reversed>
+            <ol class="biblist" reversed>
                 {% include papers.html publications=2021_items %}
             </ol>
         </div>
         <div id="2020-publications">
             <h3>2020</h3>
-            <ol class="biblist-by-year" reversed>
+            <ol class="biblist" reversed>
                 {% include papers.html publications=2020_items %}
             </ol>
         </div>
         <div id="2019-publications">
             <h3>2019</h3>
-            <ol class="biblist-by-year" reversed>
+            <ol class="biblist" reversed>
                 {% include papers.html publications=2019_items %}
             </ol>
         </div>
         <div id="2018-publications">
             <h432018</h3>
-            <ol class="biblist-by-year" reversed>
+            <ol class="biblist" reversed>
                 {% include papers.html publications=2018_items %}
             </ol>
         </div>
         <div id="2017-publications">
             <h3>2017</h3>
-            <ol class="biblist-by-year" reversed>
+            <ol class="biblist" reversed>
                 {% include papers.html publications=2017_items %}
             </ol>
         </div>
         <div id="2016-publications">
             <h3>2016</h3>
-            <ol class="biblist-by-year" reversed>
+            <ol class="biblist" reversed>
                 {% include papers.html publications=2016_items %}
             </ol>
         </div>
         <div id="2015-publications">
             <h3>2015</h3>
-            <ol class="biblist-by-year" reversed>
+            <ol class="biblist" reversed>
                 {% include papers.html publications=2015_items %}
             </ol>
         </div>
         <div id="2014-publications">
             <h3>2014</h3>
-            <ol class="biblist-by-year" reversed>
+            <ol class="biblist" reversed>
                 {% include papers.html publications=2014_items %}
             </ol>
         </div>
         <div id="2013-publications">
             <h3>2013</h3>
-            <ol class="biblist-by-year" reversed>
+            <ol class="biblist" reversed>
                 {% include papers.html publications=2013_items %}
             </ol>
         </div>
         <div id="2012-publications">
             <h3>2012</h3>
-            <ol class="biblist-by-year" reversed>
+            <ol class="biblist" reversed>
                 {% include papers.html publications=2012_items %}
             </ol>
         </div>
