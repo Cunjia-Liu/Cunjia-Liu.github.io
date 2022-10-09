@@ -108,22 +108,22 @@ publications:
 # 2021 journals
   - title: ""
     authors:
-    venue: 
+    venue: ""
     doi: 
     year: 2022
-    type: conferences
+    type: journals
     video: 
   - title: ""
     authors:
-    venue: 
+    venue: ""
     doi: 
     year: 2022
-    type: conferences
+    type: journals
     video:     
 # 2010-2015
-  - title: test 3
-    authors: CL 2012
-    venue: IEEE journal 2
+  - title: ""
+    authors: 
+    venue: ""
     doi: 
     year: 2012
     type: journals
