@@ -13,14 +13,14 @@ publications:
     type: journals
     video: https://youtu.be/_Sou67QbVqo
   - title: "Unmanned Aerial Vehicles: Control Methods and Future Challenges"
-    authors: Z. Zuo, C. Liu, Q. -L. Han and J. Song
+    authors: Z. Zuo, C. Liu, Q.-L. Han and J. Song
     venue: "IEEE/CAA Journal of Automatica Sinica, 9 (4), 601-614"
     doi: https://doi.org/10.1109/JAS.2022.105410
     year: 2022
     type: journals
     video: 
   - title: "Economic Model-Predictive Control for Aircraft Forced Landing: Framework and Two-Level Implementation"
-    authors: Z. Dong, J. Jiang, C. Liu, M. Coombes and W. -H. Chen
+    authors: Z. Dong, J. Jiang, C. Liu, M. Coombes and W.-H. Chen
     venue: "IEEE Transactions on Aerospace and Electronic Systems, 58 (2), 1119-1132"
     doi: https://doi.org/10.1109/TAES.2021.3117376
     year: 2022
@@ -40,10 +40,10 @@ publications:
     year: 2022
     type: journals
     video: 
-  - title: ""
-    authors:
-    venue: 
-    doi: 
+  - title: "Spectral analysis and mapping of blackgrass weed by leveraging machine learning and UAV multispectral imagery"
+    authors: J. Su, D. Yi, M. Coombes, C. Liu, X. Zhai, K. McDonald-Maier, W.-H. Chen
+    venue: "Computers and Electronics in Agriculture 192, 106621"
+    doi: https://doi.org/10.1016/j.compag.2021.106621
     year: 2022
     type: journals
     video: 
