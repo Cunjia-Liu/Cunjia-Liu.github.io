@@ -27,7 +27,7 @@ publications:
     type: journals
     video: 
   - title: "UAV spraying on citrus crop: impact of tank-mix adjuvant on the contact angle and droplet distribution"
-    authors: Y Meng, W Zhong, C Liu, J Su, J Su, Y Lan, Z Wang, M Wang
+    authors: Y. Meng, W. Zhong, C. Liu, J. Su, J. Su, Y. Lan, Z. Wang, M. Wang
     venue: "PeerJ 10:e13064"
     doi: https://doi.org/10.7717/peerj.13064
     year: 2022
