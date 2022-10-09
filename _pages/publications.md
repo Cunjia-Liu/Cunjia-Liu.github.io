@@ -4,12 +4,13 @@ title: "Publications"
 layout: publications
 author_profile: true
 publications:
-  - title: "test"
-    authors: test1, test2, test3
-    venue: "IEEE International Conference on"
-    doi:  
+# 2022
+  - title: "Autonomous source term estimation in unknown environments: From a dual control concept to UAV deployment"
+    authors: C. Rhodes, C. Liu*, W.-H. Chen
+    venue: "IEEE Robotics and Automation Letters 7 (2), 2274-2281"
+    doi: https://doi.org/10.1109/LRA.2022.3143890
     year: 2022
-    type: conferences
+    type: journals
     video: 
   - title: test
     authors: CL
@@ -32,7 +33,7 @@ publications:
     year: 2013
     type: journals
     video: 
-[comment]: # 2010-2015
+# 2010-2015
   - title: test 3
     authors: CL 2012
     venue: IEEE journal 2
