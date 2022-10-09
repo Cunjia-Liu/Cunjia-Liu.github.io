@@ -14,7 +14,7 @@ publications:
     video: 
   - title: "Unmanned Aerial Vehicles: Control Methods and Future Challenges"
     authors: Z. Zuo, C. Liu, Q. -L. Han and J. Song
-    venue: "IEEE/CAA Journal of Automatica Sinica", 9 (4), 601-614
+    venue: "IEEE/CAA Journal of Automatica Sinica, 9 (4), 601-614"
     doi: https://doi.org/10.1109/JAS.2022.105410
     year: 2022
     type: journals
