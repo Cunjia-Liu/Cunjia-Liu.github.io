@@ -11,7 +11,7 @@ publications:
     type: conferences
   - title: test
     authors: CL
-    venue: IEEE
+    venue: IEEE journal
     doi: 
     year: 2022
     type: journal
