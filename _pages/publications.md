@@ -14,7 +14,7 @@ publications:
     venue: IEEE journal
     doi: 
     year: 2022
-    type: journal
+    type: journals
 ---
 
 
