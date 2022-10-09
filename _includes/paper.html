@@ -10,7 +10,8 @@
     {% if doi_stripped == "" %}
         <!-- [DOI] -->
     {% else %}
-        [<a href="{{ doi_stripped }}" target="_blank">DOI</a>]
+        <!-- [<a href="{{ doi_stripped }}" target="_blank">DOI</a>] -->
+        <a href="{{ doi_stripped }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
     {% endif %}
     {% assign pdf_stripped = include.pdf | strip %}
     {% if pdf_stripped == "" %}
