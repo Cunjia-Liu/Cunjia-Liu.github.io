@@ -10,19 +10,16 @@ publications:
     doi:  
     year: 2022
     type: conferences
+    video: 
   - title: test
     authors: CL
     venue: IEEE journal
     doi: 
     year: 2022
     type: journals
+    video: 
 ---
 
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 <sup>*</sup> Equal authorship
