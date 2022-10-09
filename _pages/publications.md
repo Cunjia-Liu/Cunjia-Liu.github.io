@@ -33,6 +33,48 @@ publications:
     year: 2022
     type: journals
     video: 
+  - title: "Snow Coverage Mapping by Learning from Sentinel-2 Satellite Multispectral Images via Machine Learning Algorithms"
+    authors: Y. Wang, J. Su, X. Zhai, F. Meng, C. Liu
+    venue: "Remote Sensing 14 (3), 782"
+    doi: https://doi.org/10.3390/rs14030782
+    year: 2022
+    type: journals
+    video: 
+  - title: ""
+    authors:
+    venue: 
+    doi: 
+    year: 2022
+    type: journals
+    video: 
+  - title: ""
+    authors:
+    venue: 
+    doi: 
+    year: 2022
+    type: journals
+    video: 
+  - title: ""
+    authors:
+    venue: 
+    doi: 
+    year: 2022
+    type: journals
+    video: 
+  - title: ""
+    authors:
+    venue: 
+    doi: 
+    year: 2022
+    type: journals
+    video: 
+  - title: ""
+    authors:
+    venue: 
+    doi: 
+    year: 2022
+    type: journals
+    video:     
 # 2010-2015
   - title: test 3
     authors: CL 2012
