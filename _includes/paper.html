@@ -5,7 +5,7 @@
     <br/>
     {% assign doi_stripped = include.doi | strip %}
     {% if doi_stripped == "" %}
-        [DOI]
+        <!-- [DOI] -->
     {% else %}
         [<a href="{{ doi_stripped }}" target="_blank">DOI</a>]
     {% endif %}
