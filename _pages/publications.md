@@ -18,6 +18,13 @@ publications:
     year: 2022
     type: journals
     video: 
+  - title: test 3
+    authors: CL
+    venue: IEEE journal 2
+    doi: 
+    year: 2019
+    type: journals
+    video: 
 ---
 
 
