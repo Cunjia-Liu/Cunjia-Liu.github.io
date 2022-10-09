@@ -16,7 +16,8 @@
     {% if pdf_stripped == "" %}
         <!-- [PDF] -->
     {% else %}
-        [<a href="/{{ pdf_stripped }}" target="_blank">PDF</a>]
+        <!-- [<a href="/{{ pdf_stripped }}" target="_blank">PDF</a>] -->
+        <a href="{{ pdf_stripped }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
 <!--        [<a href="{{ pdf_stripped }}" target="_blank">DOI</a>]-->
     {% endif %}
 </li>
