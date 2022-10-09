@@ -3,7 +3,7 @@
 
 <li type="{{ include.type | strip }}">
     {{ include.authors }}
-    <br><b>{{ include.title }}</b> <br>
+    <br><b>{{ include.title | capitalize }}</b> <br>
     <i>{{ include.venue }}</i>
     <br/>
     {% assign doi_stripped = include.doi | strip %}
@@ -14,7 +14,7 @@
     {% endif %}
     {% assign pdf_stripped = include.pdf | strip %}
     {% if pdf_stripped == "" %}
-        [PDF]
+        <!-- [PDF] -->
     {% else %}
         [<a href="/{{ pdf_stripped }}" target="_blank">PDF</a>]
 <!--        [<a href="{{ pdf_stripped }}" target="_blank">DOI</a>]-->
