@@ -6,7 +6,7 @@ author_profile: true
 publications:
 # Published online
   - title: "Auxiliary Particle Filtering Over Sensor Networks under Protocols of Amplify-and-Forward and Decode-and-Forward Relays"
-    authors: Y. Liu, Z. Wang, **C. Liu**, M. Coombes, W.-H. Chen
+    authors: Y. Liu, Z. Wang, C. **Liu**, M. Coombes, W.-H. Chen
     venue: "IEEE Transactions on Signal and Information Processing over Networks, 2022"
     doi: https://doi.org/10.1109/TSIPN.2022.3212318
     year: online
