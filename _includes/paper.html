@@ -2,9 +2,9 @@
 
 
 <li type="{{ include.type | strip }}">
-    {{ include.authors }}
-    {{ <q>include.title</q>}}
-    <i>{{ include.venue }}</i>
+    {{include.authors}}.
+    <q>{{include.title}}</q>
+    <i>{{include.venue}}</i>
     <br/>
     {% assign doi_stripped = include.doi | strip %}
     {% if doi_stripped == "" %}
