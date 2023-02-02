@@ -19,7 +19,7 @@ publications:
     year: online
     type: journals
     video: 
-  - title: <q>A Novel Algorithm for Quantized Particle Filtering with Multiple Degrading Sensors: Degradation Estimation and Target Tracking<\q>
+  - title: "<q>A Novel Algorithm for Quantized Particle Filtering with Multiple Degrading Sensors: Degradation Estimation and Target Tracking<\q>"
     authors: Y. Liu, Z. Wang, C. Liu, M. Coombes, W.-H. Chen.
     venue: "IEEE Transactions on Industrial Informatics, 2022"
     doi: https://doi.org/10.1109/TII.2022.3176910
