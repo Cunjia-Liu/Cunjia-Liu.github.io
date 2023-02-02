@@ -6,21 +6,21 @@ author_profile: true
 publications:
 # Published online
   - title: "Auxiliary Particle Filtering Over Sensor Networks under Protocols of Amplify-and-Forward and Decode-and-Forward Relays"
-    authors: Y. Liu, Z. Wang, <strong> C. Liu </strong>, M. Coombes, W.-H. Chen
+    authors: Y. Liu, Z. Wang, <b> C. Liu </b>, M. Coombes, W.-H. Chen.
     venue: "IEEE Transactions on Signal and Information Processing over Networks, 2022"
     doi: https://doi.org/10.1109/TSIPN.2022.3212318
     year: online
     type: journals
     video: 
   - title: "Autonomous search of an airborne release in urban environments using informed tree planning"
-    authors: C. Rhodes, C. Liu<b>*</b>, P. Westoby, W.-H. Chen
+    authors: C. Rhodes, <b>C. Liu*</b>, P. Westoby, W.-H. Chen.
     venue: "Autonomous Robots, 2022"
     doi: https://doi.org/10.1007/s10514-022-10063-8
     year: online
     type: journals
     video: 
   - title: "A Novel Algorithm for Quantized Particle Filtering with Multiple Degrading Sensors: Degradation Estimation and Target Tracking"
-    authors: Y. Liu, Z. Wang, C. Liu, M. Coombes, W.-H. Chen
+    authors: Y. Liu, Z. Wang, C. Liu, M. Coombes, W.-H. Chen.
     venue: "IEEE Transactions on Industrial Informatics, 2022"
     doi: https://doi.org/10.1109/TII.2022.3176910
     year: online
@@ -28,7 +28,7 @@ publications:
     video: 
 # 2022 journals
   - title: "Unmanned Aerial Vehicles: Control Methods and Future Challenges"
-    authors: Z. Zuo, C. Liu, Q.-L. Han and J. Song
+    authors: Z. Zuo, C. Liu, Q.-L. Han, J. Song.
     venue: "IEEE/CAA Journal of Automatica Sinica, 9 (4), 601-614, 2022"
     doi: https://doi.org/10.1109/JAS.2022.105410
     year: 2022
