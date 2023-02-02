@@ -5,21 +5,21 @@ layout: publications
 author_profile: true
 publications:
 # Published online
-  - title: "Auxiliary Particle Filtering Over Sensor Networks under Protocols of Amplify-and-Forward and Decode-and-Forward Relays"
+  - title: Auxiliary Particle Filtering Over Sensor Networks under Protocols of Amplify-and-Forward and Decode-and-Forward Relays
     authors: Y. Liu, Z. Wang, <b> C. Liu </b>, M. Coombes, W.-H. Chen.
     venue: "IEEE Transactions on Signal and Information Processing over Networks, 2022"
     doi: https://doi.org/10.1109/TSIPN.2022.3212318
     year: online
     type: journals
     video: 
-  - title: "Autonomous search of an airborne release in urban environments using informed tree planning"
+  - title: <q>"Autonomous search of an airborne release in urban environments using informed tree planning"<\q>
     authors: C. Rhodes, <b>C. Liu*</b>, P. Westoby, W.-H. Chen.
     venue: "Autonomous Robots, 2022"
     doi: https://doi.org/10.1007/s10514-022-10063-8
     year: online
     type: journals
     video: 
-  - title: "A Novel Algorithm for Quantized Particle Filtering with Multiple Degrading Sensors: Degradation Estimation and Target Tracking"
+  - title: <q>A Novel Algorithm for Quantized Particle Filtering with Multiple Degrading Sensors: Degradation Estimation and Target Tracking<\q>
     authors: Y. Liu, Z. Wang, C. Liu, M. Coombes, W.-H. Chen.
     venue: "IEEE Transactions on Industrial Informatics, 2022"
     doi: https://doi.org/10.1109/TII.2022.3176910
