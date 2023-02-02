@@ -12,15 +12,15 @@ publications:
     year: online
     type: journals
     video: 
-  - title: "Autonomous search of an airborne release in urban environments using informed tree planning"
+  - title: <q>Autonomous search of an airborne release in urban environments using informed tree planning</q>
     authors: C. Rhodes, <b>C. Liu*</b>, P. Westoby, W.-H. Chen.
-    venue: "Autonomous Robots, 2022"
+    venue: "Autonomous Robots, 2022."
     doi: https://doi.org/10.1007/s10514-022-10063-8
     year: online
     type: journals
     video:
   - title: "A Novel Algorithm for Quantized Particle Filtering with Multiple Degrading Sensors: Degradation Estimation and Target Tracking"
-    authors: Y. Liu, Z. Wang, C. Liu, M. Coombes, W.-H. Chen.
+    authors: Y. Liu, Z. Wang, <b> C. Liu </b>, M. Coombes, W.-H. Chen.
     venue: "IEEE Transactions on Industrial Informatics, 2022."
     doi: https://doi.org/10.1109/TII.2022.3176910
     year: online
@@ -28,28 +28,28 @@ publications:
     video: 
 # 2022 journals
   - title: "Unmanned Aerial Vehicles: Control Methods and Future Challenges"
-    authors: Z. Zuo, C. Liu, Q.-L. Han, J. Song.
+    authors: Z. Zuo, <b> C. Liu </b>, Q.-L. Han, J. Song.
     venue: "IEEE/CAA Journal of Automatica Sinica, 9 (4), 601-614, 2022."
     doi: https://doi.org/10.1109/JAS.2022.105410
     year: 2022
     type: journals
     video: 
   - title: "Snow Coverage Mapping by Learning from Sentinel-2 Satellite Multispectral Images via Machine Learning Algorithms"
-    authors: Y. Wang, J. Su, X. Zhai, F. Meng, C. Liu.
-    venue: "Remote Sensing 14 (3), 782, 2022"
+    authors: Y. Wang, J. Su, X. Zhai, F. Meng, <b> C. Liu </b>.
+    venue: "Remote Sensing 14 (3), 782, 2022."
     doi: https://doi.org/10.3390/rs14030782
     year: 2022
     type: journals
     video: 
   - title: "Economic Model-Predictive Control for Aircraft Forced Landing: Framework and Two-Level Implementation"
-    authors: Z. Dong, J. Jiang, C. Liu, M. Coombes and W.-H. Chen
+    authors: Z. Dong, J. Jiang, <b> C. Liu </b>, M. Coombes and W.-H. Chen
     venue: "IEEE Transactions on Aerospace and Electronic Systems, 58 (2), 1119-1132, 2022."
     doi: https://doi.org/10.1109/TAES.2021.3117376
     year: 2022
     type: journals
     video: 
   - title: "Autonomous Source Term Estimation in Unknown Environments: From a Dual Control Concept to UAV Deployment"
-    authors: C. Rhodes, C. Liu<b>*</b>, W.-H. Chen
+    authors: C. Rhodes, <b>C. Liu*</b>, W.-H. Chen
     venue: "IEEE Robotics and Automation Letters 7 (2), 2274-2281, 2022."
     doi: https://doi.org/10.1109/LRA.2022.3143890
     year: 2022
