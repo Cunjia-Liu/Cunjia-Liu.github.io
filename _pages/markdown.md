@@ -14,8 +14,10 @@ redirect_from:
   * IET Cyber-Systems and Robotics
   * Frontiers in Remote Sensing
   * Drones and Autonomous Vehicles
-* Program Chair / Committee
-  * The 9th IEEE Smart World Congress 2023
+* Conference Committee
+  * Program Chair: The 9th IEEE Smart World Congress 2023
+  * Conference AE: IEEE ICCA 2019, ICUAS'19, ICUAS'20
+  * Program Committee: ROBOT2022
 
 ## Locations of key files/directories
 
