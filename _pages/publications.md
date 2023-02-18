@@ -13,7 +13,6 @@ publications:
     year: online
     type: journals
     video: 
-
 # 2022 journals
   - title: <q> Auxiliary particle filtering over sensor networks under protocols of amplify-and-forward and decode-and-forward relays</q>
     authors: Y. Liu, Z. Wang, <b> C. Liu </b>, M. Coombes, W.-H. Chen.
@@ -72,7 +71,6 @@ publications:
     type: journals
     video: https://youtu.be/_Sou67QbVqo
 
-  
 # 2022 conferences 
   - title: "Consensus-Based distributed source term estimation with particle filter and GM"
     authors: Y. Liu, M. Coombes, C. Liu
