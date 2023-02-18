@@ -7,6 +7,16 @@ redirect_from:
   - /markdown.html
 ---
 
+## Editorial services
+* Associate Editor / Editorial Board
+  * IEEE Robotics & Automation Magazine (2023-2025)
+  * IEEE Robotics & Automation Letters (2022-2024)
+  * IET Cyber-Systems and Robotics
+  * Frontiers in Remote Sensing
+  * Drones and Autonomous Vehicles
+* Program Chair / Committee
+  * The 9th IEEE Smart World Congress 2023
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
