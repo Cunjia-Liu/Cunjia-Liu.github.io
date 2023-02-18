@@ -18,7 +18,7 @@ publications:
 
 
 # 2022 journals
-  - title: <q> Auxiliary particle filtering over sensor networks under protocols of amplify-and-forward and decode-and-forward relays</q>
+  - title: <q>Auxiliary particle filtering over sensor networks under protocols of amplify-and-forward and decode-and-forward relays</q>
     authors: Y. Liu, Z. Wang, <b> C. Liu </b>, M. Coombes, W.-H. Chen.
     venue: "IEEE Transactions on Signal and Information Processing over Networks, 8, 883-893, 2022."
     doi: https://doi.org/10.1109/TSIPN.2022.3212318
