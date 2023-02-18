@@ -4,10 +4,11 @@ title: "Publications"
 layout: publications
 author_profile: true
 publications:
+---
 
 # Published online
 
-  - title: <q>A novel algorithm for quantized particle filtering with multiple degrading sensors: degradation estimation and target tracking</q>
+  - title: <q>A novel algorithm for quantized particle filtering with multiple degrading sensors: degradation estimation and target tracking<\q>
     authors: Y. Liu, Z. Wang, <b> C. Liu </b>, M. Coombes, W.-H. Chen.
     venue: "IEEE Transactions on Industrial Informatics, 2022."
     doi: https://doi.org/10.1109/TII.2022.3176910
