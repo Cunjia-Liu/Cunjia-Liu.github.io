@@ -6,7 +6,7 @@ author_profile: true
 publications:
 
 # Published online
-  - title: <q>A novel algorithm for quantized particle filtering with multiple degrading sensors: degradation estimation and target tracking</q>
+  - title: "<q>A novel algorithm for quantized particle filtering with multiple degrading sensors: degradation estimation and target tracking</q>"
     authors: Y. Liu, Z. Wang, <b> C. Liu </b>, M. Coombes, W.-H. Chen.
     venue: "IEEE Transactions on Industrial Informatics, 2022."
     doi: https://doi.org/10.1109/TII.2022.3176910
@@ -43,7 +43,7 @@ publications:
     year: 2022
     type: journals
     video: 
-  - title: <q>UAV spraying on citrus crop: impact of tank-mix adjuvant on the contact angle and droplet distribution</q>
+  - title: "<q>UAV spraying on citrus crop: impact of tank-mix adjuvant on the contact angle and droplet distribution</q>"
     authors: Y. Meng, W. Zhong, <b> C. Liu </b>, J. Su, J. Su, Y. Lan, Z. Wang, M. Wang.
     venue: "PeerJ 10:e13064, 2022"
     doi: https://doi.org/10.7717/peerj.13064
