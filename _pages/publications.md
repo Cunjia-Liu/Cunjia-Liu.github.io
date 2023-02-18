@@ -7,7 +7,6 @@ publications:
 
 # Published online
 
-
   - title: "<q>A novel algorithm for quantized particle filtering with multiple degrading sensors: degradation estimation and target tracking</q>"
     authors: Y. Liu, Z. Wang, <b> C. Liu </b>, M. Coombes, W.-H. Chen.
     venue: "IEEE Transactions on Industrial Informatics, 2022."
@@ -15,7 +14,22 @@ publications:
     year: online
     type: journals
     video: 
-
+  - title: <q>Hawk‐eye‐inspired perception algorithm of stereo vision for obtaining orchard 3D point cloud navigation map</q>
+    authors: Z. Zhang, J. Chen, X. Xu,  <b> C. Liu </b>, Y. Han.
+    venue: "CAAI Transactions on Intelligence Technology, 1-15, 2022."
+    doi: https://doi.org/10.1049/cit2.12141
+    year: 2022
+    type: journals
+    video: 
+    
+# 2023 journals
+  - title: <q>Autonomous search of an airborne release in urban environments using informed tree planning</q>
+    authors: C. Rhodes, <b>C. Liu</b>, P. Westoby, W.-H. Chen.
+    venue: "Autonomous Robots, 47(1), 1-18, 2023."
+    doi: https://doi.org/10.1007/s10514-022-10063-8
+    year: online
+    type: journals
+    video:
 
 # 2022 journals
   - title: <q>Auxiliary particle filtering over sensor networks under protocols of amplify-and-forward and decode-and-forward relays</q>
@@ -23,20 +37,6 @@ publications:
     venue: "IEEE Transactions on Signal and Information Processing over Networks, 8, 883-893, 2022."
     doi: https://doi.org/10.1109/TSIPN.2022.3212318
     year: online
-    type: journals
-    video: 
-  - title: <q>Autonomous search of an airborne release in urban environments using informed tree planning</q>
-    authors: C. Rhodes, <b>C. Liu</b>, P. Westoby, W.-H. Chen.
-    venue: "Autonomous Robots, 47(1), 1-18, 2022."
-    doi: https://doi.org/10.1007/s10514-022-10063-8
-    year: online
-    type: journals
-    video:
-  - title: <q>Hawk‐eye‐inspired perception algorithm of stereo vision for obtaining orchard 3D point cloud navigation map</q>
-    authors: Z. Zhang, J. Chen, X. Xu,  <b> C. Liu </b>, Y. Han.
-    venue: "CAAI Transactions on Intelligence Technology, 1-15, 2022. "
-    doi: https://doi.org/10.1049/cit2.12141
-    year: 2022
     type: journals
     video: 
   - title: <q>Review of UAV-based autonomous search algorithms for hazardous sources</q>
@@ -68,7 +68,7 @@ publications:
     type: journals
     video: 
   - title: "<q>Autonomous Source Term Estimation in Unknown Environments: From a Dual Control Concept to UAV Deployment</q>"
-    authors: C. Rhodes, <b>C. Liu*</b>, W.-H. Chen.
+    authors: C. Rhodes, <b>C. Liu</b>, W.-H. Chen.
     venue: "IEEE Robotics and Automation Letters 7 (2), 2274-2281, 2022."
     doi: https://doi.org/10.1109/LRA.2022.3143890
     year: 2022
@@ -375,13 +375,6 @@ publications:
     authors: <b> C. Liu </b> and W.-H. Chen.
     venue: "Journal of Guidance, Control, and Dynamics, 39(12), 2810-2819, 2016."
     doi: https://doi.org/10.2514/1.G001958
-    year: 2016
-    type: journals
-    video:
-  - title: <q>Integrated guidance and control design based on a reference model</q>
-    authors: J. Chen, Q. Li, <b> C. Liu </b>, P. Li, Z. Ren
-    venue: "International Journal of Control, Automation and Systems, 14(5), 1299-1308, 2016."
-    doi: https://doi.org/10.1007/s12555-015-0048-5
     year: 2016
     type: journals
     video:
