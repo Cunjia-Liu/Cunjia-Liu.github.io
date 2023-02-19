@@ -79,9 +79,9 @@ layout: single
 
     <div id="all-by-year">
         {% assign online_items = page.publications | where: "year", "online" %}
-        {% assign 2022_items = page.publications | where: "year", "2025" %}
-        {% assign 2022_items = page.publications | where: "year", "2024" %}
-        {% assign 2022_items = page.publications | where: "year", "2023" %}
+        {% assign 2025_items = page.publications | where: "year", "2025" %}
+        {% assign 2024_items = page.publications | where: "year", "2024" %}
+        {% assign 2023_items = page.publications | where: "year", "2023" %}
         {% assign 2022_items = page.publications | where: "year", "2022" %}
         {% assign 2021_items = page.publications | where: "year", "2021" %}
         {% assign 2020_items = page.publications | where: "year", "2020" %}
@@ -98,6 +98,24 @@ layout: single
             <h3>Published online</h3>
             <ol class="biblist" reversed>
                 {% include papers.html publications=online_items %}
+            </ol>
+        </div>
+        <div id="2025-publications">
+            <h3>2025</h3>
+            <ol class="biblist" reversed>
+                {% include papers.html publications=2025_items %}
+            </ol>
+        </div>
+        <div id="2024-publications">
+            <h3>2024</h3>
+            <ol class="biblist" reversed>
+                {% include papers.html publications=2024_items %}
+            </ol>
+        </div>
+        <div id="2023-publications">
+            <h3>2023</h3>
+            <ol class="biblist" reversed>
+                {% include papers.html publications=2023_items %}
             </ol>
         </div>
         <div id="2022-publications">
