@@ -79,6 +79,9 @@ layout: single
 
     <div id="all-by-year">
         {% assign online_items = page.publications | where: "year", "online" %}
+        {% assign 2022_items = page.publications | where: "year", "2025" %}
+        {% assign 2022_items = page.publications | where: "year", "2024" %}
+        {% assign 2022_items = page.publications | where: "year", "2023" %}
         {% assign 2022_items = page.publications | where: "year", "2022" %}
         {% assign 2021_items = page.publications | where: "year", "2021" %}
         {% assign 2020_items = page.publications | where: "year", "2020" %}
