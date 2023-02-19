@@ -6,7 +6,6 @@ author_profile: true
 publications:
 
 # Published online
-
   - title: "<q>A novel algorithm for quantized particle filtering with multiple degrading sensors: degradation estimation and target tracking</q>"
     authors: Y. Liu, Z. Wang, <b> C. Liu </b>, M. Coombes, W.-H. Chen.
     venue: "IEEE Transactions on Industrial Informatics, 2022."
@@ -27,7 +26,7 @@ publications:
     authors: C. Rhodes, <b>C. Liu</b>, P. Westoby, W.-H. Chen.
     venue: "Autonomous Robots, 47(1), 1-18, 2023."
     doi: https://doi.org/10.1007/s10514-022-10063-8
-    year: online
+    year: 2023
     type: journals
     video:
 
