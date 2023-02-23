@@ -171,21 +171,21 @@ publications:
     doi: https://doi.org/10.1109/mra.2019.2943006
     year: 2020
     type: journals
-    video:
+    video: https://youtu.be/NdbED6RTZyI
   - title: <q>Optimal path following for small fixed-wing UAVs under wind disturbances</q>
     authors: J. Yang, <b> C. Liu </b>, M. Coombes, Y. Yan, W.-H. Chen.
     venue: "IEEE Transactions on Control Systems Technology, 29(3), 996-1008, 2020."
     doi: https://doi.org/10.1109/TCST.2020.2980727
     year: 2020
     type: journals
-    video:
+    video: https://youtu.be/M_qy1iH7u3M
   - title: <q>On the Actuator Dynamics of Dynamic Control Allocation for a Small Fixed-wing UAV with Direct Lift Control</q>
     authors: Y. Yan, J. Yang, <b>C. Liu</b>, M. Coombes, S. Li, W. Chen.
     venue: "IEEE Transactions on Control Systems Technology, 28(3), 984-991, 2020."
     doi: https://doi.org/10.1109/TCST.2019.2945909
     year: 2020
     type: journals
-    video:
+    video: https://youtu.be/zkTS4GtDSLE
   - title: "<q>Aerial Visual Perception in Smart Farming: Field Study of Wheat Yellow Rust Monitoring</q>"
     authors: J. Su, D. Yi, B. Su, Z. Mi, <b>C. Liu</b>, X. Hu, X. Xu, L. Guo, W.-H. Chen.
     venue: "IEEE Transactions on Industrial Informatics, 17(3), 2242-2249, 2020."
