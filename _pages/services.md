@@ -19,7 +19,7 @@ redirect_from:
   * Conference AE: IEEE ICCA 2019, ICUAS'19, ICUAS'20
   * Program Committee: ROBOT2022
 
-## Administrative Services
+## Administrative services
 
 * Member of University Dynamic Working Focus Group (2021-2022)
 * Academic probation advisor (2022-present)
