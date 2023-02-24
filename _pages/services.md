@@ -20,6 +20,5 @@ redirect_from:
   * Program Committee: ROBOT2022
 
 ## Administrative services
-
 * Member of University Dynamic Working Focus Group (2021-2022)
 * Academic probation advisor (2022-present)
