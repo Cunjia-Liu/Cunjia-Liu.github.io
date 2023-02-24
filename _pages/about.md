@@ -16,7 +16,7 @@ I received my PhD in autonomous aerial vehicles from the same department in 2011
 
 Prior to joining Loughborough University, I obtained my MSc in Guidance, Navigation and Control (in 2008) and BEng in Control Engineering (in 2005) both from Beihang University (BUAA), China. 
 
-## My research interests include:
+### My research interests include:
 * Control engineering: Model predictive control, Disturbance observer based control
 * Information fusion: Bayesian estimation, Data assimilation, Sensor management
 * Autonomous vehicles: Flight control and planning, Robotic perception
