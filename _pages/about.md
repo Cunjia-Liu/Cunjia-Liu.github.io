@@ -19,6 +19,6 @@ Prior to joining Loughborough University, I obtained my MSc in Guidance, Navigat
 ### My research interests include:
 * Control engineering: Model predictive control, Disturbance observer based control
 * Information fusion: Bayesian estimation, Data assimilation, Sensor management
-* Autonomous vehicles: Flight control and planning, Robotic perception
+* Autonomous robotics: Flight control and planning, Robotic perception
 * Application domain: Smart farming, CBRN defence, Infrastructure inspection, Intelligent mobility
 
