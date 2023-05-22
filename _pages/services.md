@@ -15,9 +15,12 @@ redirect_from:
   * Frontiers in Remote Sensing
   * Drones and Autonomous Vehicles
 * Conference Committee
-  * Program Chair: The 9th IEEE Smart World Congress 2023
+  * Program Chair: The 9th IEEE Smart World Congress 2023, IEEE ICAC'24
   * Conference AE: IEEE ICCA 2019, ICUAS'19, ICUAS'20
   * Program Committee: ROBOT2022
+
+## Grant review 
+* EPSRC peer-review college 
 
 ## Administrative services
 * Member of University Dynamic Working Focus Group (2021-2022)
