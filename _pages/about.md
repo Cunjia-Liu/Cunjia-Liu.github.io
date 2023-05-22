@@ -20,5 +20,5 @@ My research encompasses Robotics and Autonomous Systems with the aim to develop 
 
 [//]: # (* Application domain: Smart farming, CBRN defence, Infrastructure inspection, Intelligent mobility)
 
-## News: 
+### News: 
 * A new PDRA position opening soon for agriculture/horticulture robotics focusing on perception and SLAM. 
