@@ -17,5 +17,5 @@ I received my PhD in autonomous aerial vehicles from the same department in 2011
 Prior to joining Loughborough University, I obtained my MSc in Guidance, Navigation and Control (in 2008) and BEng in Control Engineering (in 2005) both from Beihang University (BUAA), China. 
 
 My research encompasses Robotics and Autonomous Systems with the aim to develop advanced functionalities to enable and promot their applications in differet domains. In particular, I am interested in combining techniqiues from Control Engineering (e.g., Model predictive control, Disturbance observer based control) and Information Fusion (e.g., particle filtering, Monte Carlo methods) to provide solutions to flight control, path planning, target tracking, sensor management and robotic information gathering.     
-[//]: # * Application domain: Smart farming, CBRN defence, Infrastructure inspection, Intelligent mobility
+[//]: # (* Application domain: Smart farming, CBRN defence, Infrastructure inspection, Intelligent mobility)
 
