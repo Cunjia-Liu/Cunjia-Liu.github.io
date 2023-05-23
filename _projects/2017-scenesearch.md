@@ -4,7 +4,7 @@ collection: projects
 type: "Principal Investigator"
 permalink: /projects/2017-scenesearch
 funder: "DASA"
-startdate: 2017-10-01
+date: 2017-10-01
 enddate: 2019-03-31
 value: "£375k"
 ID: "ACC500113"
