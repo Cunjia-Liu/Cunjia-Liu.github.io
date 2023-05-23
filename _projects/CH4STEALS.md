@@ -4,8 +4,8 @@ collection: projects
 type: "Co-I"
 permalink: /projects/CH4STEALS
 funder: "NERC (discipline hopping)"
-startdate: 2023-01
-enddate: 2023-03
+startdate: 2023-01-01
+enddate: 2023-03-31
 value: "£37k"
 ---
 
