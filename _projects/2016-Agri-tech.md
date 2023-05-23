@@ -4,7 +4,7 @@ collection: projects
 type: "Co-Investigator"
 permalink: /projects/2016-Agri-tech
 funder: "STFC"
-startdate: 2016-04-01
+date: 2016-04-01
 enddate: 2019-12-31
 value: "£1,200k"
 ID: "ST/N006852/1"
