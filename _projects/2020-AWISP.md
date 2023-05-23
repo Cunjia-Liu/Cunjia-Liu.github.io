@@ -4,7 +4,7 @@ collection: projects
 type: "Project Manager"
 permalink: /projects/2020-AWISP
 funder: "Innovate UK"
-startdate: 2020-11-01
+date: 2020-11-01
 enddate: 2021-04-30
 value: "£95k"
 ID: "83950"
