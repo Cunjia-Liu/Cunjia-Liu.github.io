@@ -2,9 +2,11 @@
 title: "Methane STEALS: Methane Source Term Estimation At Landfill Sites"
 collection: projects
 type: "Co-I"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/CH4STEALS
 venue: "NERC (discipline hopping)"
-date: 01/2023 - 03/2023 
+date: 01/2023
 location: "£37k"
 ---
+
+
 
