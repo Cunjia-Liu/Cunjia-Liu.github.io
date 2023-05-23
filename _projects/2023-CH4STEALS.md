@@ -6,7 +6,7 @@ permalink: /projects/2023-CH4STEALS
 funder: "NERC"
 startdate: 2023-01-01
 enddate: 2023-03-31
-value: "£37k"
+value: "Â£37k"
 ---
 
 NERC discipline hopping project
