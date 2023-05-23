@@ -6,7 +6,7 @@ permalink: /projects/2016-Agri-tech
 funder: "STFC"
 startdate: 2016-04-01
 enddate: 2019-12-31
-value: "Â£1,200k"
+value: "£1,200k"
 ID: "ST/N006852/1"
 ---
 

@@ -6,6 +6,7 @@ permalink: /projects/2019-CABI-EO
 funder: "BBSRC"
 startdate: 2019-02-01
 enddate: 2022-02-08
+value: "£330k"
 ID: "BB/S020977/1"
 ---
 
