@@ -6,7 +6,7 @@ permalink: /projects/2021-FollowPV
 funder: "Innovate UK"
 startdate: 2021-03-31
 enddate: 2022-03-31
-value: "£60k"
+value: "Â£60k"
 ID: "98378"
 ---
 
