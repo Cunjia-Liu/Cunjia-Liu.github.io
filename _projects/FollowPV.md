@@ -10,4 +10,4 @@ enddate: 2022-03-31
 value: "£60k"
 ---
 
-[More information] (https://gtr.ukri.org/projects?ref=98378)
+[More information](https://gtr.ukri.org/projects?ref=98378)
