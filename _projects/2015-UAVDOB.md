@@ -1,0 +1,10 @@
+---
+title: "Gust alleviation for mini UAVs using disturbance rejection flight control"
+collection: projects
+type: "Principal Investigator"
+permalink: /projects/2015-UAVDOB
+funder: "Dstl"
+startdate: 2015-04-01
+enddate: 2015-10-31
+ID: "97004522"
+---
