@@ -4,7 +4,7 @@ collection: projects
 type: "Principal Investigator"
 permalink: /projects/2020-SCENE-CAD
 funder: "STFC"
-startdate: 2020-02-01
+date: 2020-02-01
 enddate: 2022-03-31
 value: "£404k"
 ID: "ST/V00137X/1"
