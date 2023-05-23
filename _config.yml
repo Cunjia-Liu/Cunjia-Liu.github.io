@@ -259,6 +259,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sort_by: startdate
 
 # Sass/SCSS
 sass:
