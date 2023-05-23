@@ -32,9 +32,9 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    {% if post.type %}<p class="archive__item-excerpt" itemprop="description">{{post.type}} </p> {% endif %}
-    {% if post.startdate %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.startdate | date: '%B, %Y' }} - {{ post.enddate | date: '%B, %Y' }} {% endif %}
-    {% if post.funder %}<p class="archive__item-excerpt" itemprop="description"> Funded by {{ post.funder }}, {{post.value}} {% endif %}
+    {% if post.type %}<p class="page__meta"> {{post.type}} </p> {% endif %}
+    {% if post.startdate %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.startdate | date: '%B, %Y' }} - {{ post.enddate | date: '%B, %Y' }}, Funded by <b>{{ post.funder }}</b>, {{post.value}} {% endif %}
+    {% if post.funder %}<p class="archive__item-excerpt" itemprop="description"> Funded by <b>{{ post.funder }}</b>, {{post.value}} {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
   </article>
 </div>
