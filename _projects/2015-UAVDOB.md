@@ -4,7 +4,7 @@ collection: projects
 type: "Principal Investigator"
 permalink: /projects/2015-UAVDOB
 funder: "Dstl"
-startdate: 2015-04-01
+date: 2015-04-01
 enddate: 2015-10-31
 value: "£40k"
 ID: "97004522"
