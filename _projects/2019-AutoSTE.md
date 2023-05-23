@@ -6,5 +6,6 @@ permalink: /projects/2019-AutoSTE
 funder: "Dstl"
 startdate: 2019-11-01
 enddate: 2020-03-01
-value: "£85k"
+value: "Â£85k"
 ---
+
