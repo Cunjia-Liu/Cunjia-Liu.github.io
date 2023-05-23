@@ -32,8 +32,7 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    {% if post.type %}<p class="page__meta"> {{post.type}} </p> {% endif %}
-    {% if post.startdate %}<p class="archive__item-excerpt" itemprop="description"><i class="fa fa-clock-o" aria-hidden="true"></i> {{post.startdate | date: '%B, %Y'}} - {{post.enddate | date: '%B, %Y'}}, funded by <b>{{post.funder}}</b>, {{post.value}} </p> {% endif %}
+    {% if post.startdate %}<p class="archive__item-excerpt" itemprop="description"><i class="fa fa-clock-o" aria-hidden="true"></i> {{post.startdate | date: "%B, %Y"}} - {{post.enddate | date: "%B, %Y"}}, funded by <b>{{post.funder}}</b>, {{post.value}}, {{post.type}}. </p> {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
   </article>
 </div>
