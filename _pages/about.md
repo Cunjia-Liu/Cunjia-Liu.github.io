@@ -21,4 +21,4 @@ My research encompasses Robotics and Autonomous Systems with the aim to develop 
 [//]: # (* Application domain: Smart farming, CBRN defence, Infrastructure inspection, Intelligent mobility)
 
 ### News: 
-* [May 2023] A new PDRA position is opening soon for an agriculture/horticulture robotics project focusing on perception and SLAM solutions (funded by UKRI). The post will likely start from September 2023 for 30-36 months. Please contact me if you are interested. 
+-<img src="https://img.shields.io/badge/May-2023-lightgrey" align="top"> A new PDRA position is opening soon for an agriculture/horticulture robotics project focusing on perception and SLAM solutions (funded by UKRI). The post will likely start from September 2023 for 30-36 months. Please contact me if you are interested. 
