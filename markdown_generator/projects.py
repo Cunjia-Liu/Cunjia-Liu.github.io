@@ -107,9 +107,9 @@ for row, item in projects.iterrows():
     md_filename = os.path.basename(md_filename)
     #print(md)
     
-    with open("../_talks/" + md_filename, 'w') as f:
+    with open("../projects/" + md_filename, 'w') as f:
         f.write(md)
 
 
-# These files are in the talks directory, one directory below where we're working from.
+# These files are in the projects directory, one directory below where we're working from.
 
