@@ -22,5 +22,5 @@ My research encompasses Robotics and Autonomous Systems with the aim to develop 
 
 ### News: 
 
-- <img src="https://img.shields.io/badge/May-2023-lightgrey" alt = "May-2023" align="top"> <span style="font-family:Georgia;font-size:100%">A new PDRA post will open soon for a UKRI funded project on agriculture/horticulture robotics (perception and SLAM solutions). The post will likely start from September 2023 for 30-36 months. Please contact me if you are interested. </span>
+- <img src="https://img.shields.io/badge/May-2023-lightgrey" alt = "May-2023" align="top"> <span style="font-family:"Times New Roman";font-size:100%">A new PDRA post will open soon for a UKRI funded project on agriculture/horticulture robotics (perception and SLAM solutions). The post will likely start from September 2023 for 30-36 months. Please contact me if you are interested. </span>
 - <img src="https://img.shields.io/badge/Mar-2023-lightgrey" alt = "Mar-2023" align="top"> I have been awarded the University Fellowships starting from Oct 2023 for 12 months.
