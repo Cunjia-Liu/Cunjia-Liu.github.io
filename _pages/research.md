@@ -7,4 +7,13 @@ redirect_from:
   - /research
 ---
 
-# Research interest
+I am interested in developing and integrating techniques from control engineering (e.g., Model predictive control, Disturbance observer based control), information fusion (e.g., particle filtering, Monte Carlo methods) and machine learning to provide solutions to control and planning, target tracking, sensor management and robotic information gathering.    
+
+## Control design for autonomous vehicles / robots 
+
+## Planning and 
+
+
+
+
+
