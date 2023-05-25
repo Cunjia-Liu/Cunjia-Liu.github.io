@@ -14,9 +14,9 @@ I am interested in developing and integrating techniques from control engineerin
 <details>
 	<summary> Applications: flight control </summary>
 	
-	<pre>
+	<p>
 	DOBC for small fixed-wing UAVs
-  	</pre>
+  	</p>
 
 </details>
 
