@@ -34,6 +34,8 @@ I am interested in developing and integrating techniques from control engineerin
 ## Percetion and information fusion 
 
 
+<i class="fa fa-envelope"></i> 
+
 
 
 
