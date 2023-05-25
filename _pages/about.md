@@ -23,9 +23,7 @@ My research focuses on Robotics and Autonomous Systems, with the primary goal of
 
 <i class="fa fa-circle-exclamation"></i>
 
-<i class="fa fa-envelope"></i>
-
-> <i class="fa-regular fa-circle-exclamation"></i> Note <br>
+> <i class="fa fa-envelope"></i> Note <br>
 > If you are interested in pursuing a PhD with me, please check the [PhD funding information](https://www.lboro.ac.uk/study/postgraduate/fees-funding/research-degree-funding/) available on the university website. There is always a potential to offer PhD scholarships to exceptional candidates. If you find a synergy between your background, interests, and our ongoing research endeavors, please do not hesitate to reach out to me. 
 
 [//]: # (* Application domain: Smart farming, CBRN defence, Infrastructure inspection, Intelligent mobility)
@@ -35,3 +33,5 @@ My research focuses on Robotics and Autonomous Systems, with the primary goal of
 - <img src="https://img.shields.io/badge/May-2023-lightgrey" alt = "May-2023" align="top"> A new PDRA post will open soon for a UKRI funded project on agriculture/horticulture robotics (perception and SLAM solutions). The post will likely start from September 2023 for 30-36 months. Please contact me if you are interested. 
 - <img src="https://img.shields.io/badge/Mar-2023-lightgrey" alt = "Mar-2023" align="top"> I have been awarded the University Fellowships starting from Oct 2023 for 12 months.
 
+
+<img src="" alt = "May-https://fontawesome.com/icons/circle-exclamation?f=classic&s=light" align="top">
