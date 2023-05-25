@@ -10,13 +10,16 @@ redirect_from:
 
 ![image](/images/D5286-03.jpg)
 
-I am a Reader in Unmanned Vehicles at the [Department of Aeronautical and Automotive Engineering](https://www.lboro.ac.uk/departments/aae/) (AAE) at Loughborough University. 
+I am a Reader in Unmanned Vehicles at the [Department of Aeronautical and Automotive Engineering (AAE)](https://www.lboro.ac.uk/departments/aae/) (AAE) at Loughborough University, working with [Loughborough University Centre for Autonomous Systems (LUCAS)](https://sites.google.com/a/lucasresearch.co.uk/lucas-research/home).
 
-I received my PhD in autonomous aerial vehicles from the same department in 2011. After completing my PhD,  I worked briefly at Triumph Actuation & Motion Control Systems-UK Ltd as a control engineer, and then returned to the Autonomous Systems Laboratory at Loughborough University as a Research Associate. I joined the department as an academic in 2013. 
+I received my PhD in autonomous aerial vehicles from the same department in 2011. After completing my PhD,  I worked briefly at Triumph Actuation & Motion Control Systems-UK Ltd as a control engineer, and then returned to LUCAS as a Research Associate. I joined the Department of AAE as an academic in 2013. 
 
 Prior to joining Loughborough University, I obtained my MSc in Guidance, Navigation and Control (in 2008) and BEng in Control Engineering (in 2005) both from Beihang University (BUAA), China. 
 
-My research encompasses Robotics and Autonomous Systems with the aim to develop advanced functionalities to enable and promot their applications in differet domains. In particular, I am interested in developing and combining techniqiues from control engineering (e.g., Model predictive control, Disturbance observer based control), information fusion (e.g., particle filtering, Monte Carlo methods) and machine learning to provide solutions to flight control, path planning, target tracking, sensor management and robotic information gathering.    
+My research focuses on Robotics and Autonomous Systems, with the primary goal of developing advanced functionalities to facilitate and enhance their applications across various domains. I have extensive experience supervising approximately 10 PhD students and 8 Postdoctoral Research Associates (PDRAs) in conducting high-quality research. Throughout my career, I have consistently attracted and successfully delivered multi-million pound research projects in the field of robotics and autonomous systems.
+
+> **Note**
+> If you are interested in doing a PhD with me in LUCAS
 
 [//]: # (* Application domain: Smart farming, CBRN defence, Infrastructure inspection, Intelligent mobility)
 
