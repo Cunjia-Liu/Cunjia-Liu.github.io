@@ -12,14 +12,24 @@ I am interested in developing and integrating techniques from control engineerin
 ## Control for vehicle/robot dynamics 
 
 <details>
-	<summary> Applications on flight control </summary>
+	<summary> Applications: flight control </summary>
   
+	### DOBC for small fixed-wing UAVs
 	
-	DOBC design for small fixed-wing UAVs
+	### 
   
 </details>
 
 ## Planning for autonomous missions
+
+<details>
+	<summary> Case study on robotic CBR responses </summary>
+  
+	### Autonomous source term estimation
+	
+	### Autonomous source term estimation in cluttered area
+  
+</details>
 
 ## Percetion and information fusion 
 
