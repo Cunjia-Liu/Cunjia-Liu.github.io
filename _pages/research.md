@@ -13,18 +13,19 @@ I am interested in developing and integrating techniques from control engineerin
 
 <details>
 	<summary> Applications: flight control </summary>
+	
 	<pre>
 	DOBC for small fixed-wing UAVs
-	
   	</pre>
+
 </details>
 
 ## Planning for autonomous missions
 
 <details>
 	<summary> Case study on robotic CBR responses </summary>
-	~~~
-	Autonomous source term estimation
+	
+	### Autonomous source term estimation
 	
 	Autonomous source term estimation in cluttered area
   	~~~
