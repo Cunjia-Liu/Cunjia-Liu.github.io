@@ -17,12 +17,13 @@ This part of research focuses on developing advanced control for unmanned vehicl
 	<p> DOBC design for path-folloiwng </p>
 	
 	<iframe width="420" height="315" src="https://youtu.be/M_qy1iH7u3M" frameborder="0" ></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/M_qy1iH7u3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></iframe>
 
 
 </details>
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M_qy1iH7u3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 ## Planning for autonomous missions
 
