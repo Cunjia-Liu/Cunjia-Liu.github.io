@@ -16,6 +16,9 @@ This part of research focuses on developing advanced control for unmanned vehicl
 	
 	<p> DOBC design for path-folloiwng </p>
 	[![Final video of fixing issues in your code in VS Code](https://youtu.be/M_qy1iH7u3M.jpg)](https://youtu.be/M_qy1iH7u3M)
+	
+	<iframe width="420" height="315" src="https://youtu.be/M_qy1iH7u3M" frameborder="0" allowfullscreen></iframe>
+
 
 </details>
 
@@ -33,7 +36,6 @@ This part of research focuses on developing advanced control for unmanned vehicl
 ## Percetion and information fusion 
 
 
-<i class="fa fa-envelope"></i> 
 
 
 
