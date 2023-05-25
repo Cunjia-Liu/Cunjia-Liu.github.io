@@ -34,9 +34,6 @@ I am interested in developing and integrating techniques from control engineerin
 ## Percetion and information fusion 
 
 
->**Note** 
->
->If you are interested in pursuing a PhD with me, please check the [PhD funding information](https://www.lboro.ac.uk/study/postgraduate/fees-funding/research-degree-funding/) available on the university website. There is always a potential to offer PhD scholarships to exceptional candidates. If you find a synergy between your background, interests, and our ongoing research endeavors, please do not hesitate to reach out to me. 
 
 
 
