@@ -34,4 +34,5 @@ My research focuses on Robotics and Autonomous Systems, with the primary goal of
 - <img src="https://img.shields.io/badge/Mar-2023-lightgrey" alt = "Mar-2023" align="top"> I have been awarded the University Fellowships starting from Oct 2023 for 12 months.
 
 
-<img src="https://fontawesome.com/icons/circle-exclamation?f=classic&s=light" align="top">
+<i class="fa-light fa-circle-exclamation"></i>
+
