@@ -15,7 +15,7 @@ This part of research focuses on developing advanced control for unmanned vehicl
 	<summary> Applications: UAV flight control </summary>
 	
 	<p> DOBC design for UAV path-folloiwng </p>
-	<iframe width="320" height="240" src="https://www.youtube.com/embed/M_qy1iH7u3M"  frameborder="0" ></iframe>
+	<iframe width="160" height="120" src="https://www.youtube.com/embed/M_qy1iH7u3M"  frameborder="0" ></iframe>
 	<p> DOBC + MPC for helicopter  </p>
 	<iframe width="320" height="240" src="https://www.youtube.com/embed/TXJjf8RHnIk" frameborder="0" ></iframe>
 
