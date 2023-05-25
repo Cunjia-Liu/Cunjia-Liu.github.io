@@ -18,7 +18,7 @@ Prior to joining Loughborough University, I obtained my MSc in Guidance, Navigat
 
 My research focuses on Robotics and Autonomous Systems, with the primary goal of developing advanced functionalities to facilitate and enhance their applications across various domains. I have extensive experience supervising approximately 10 PhD students and 8 Postdoctoral Research Associates (PDRAs) in conducting high-quality research. Throughout my career, I have consistently attracted and successfully delivered multi-million pound research projects in the field of robotics and autonomous systems.
 
-> **Note**
+> **Note** <br>
 > If you are interested in doing a PhD with me in LUCAS
 
 [//]: # (* Application domain: Smart farming, CBRN defence, Infrastructure inspection, Intelligent mobility)
