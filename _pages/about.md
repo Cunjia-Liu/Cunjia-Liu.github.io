@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
+
 ![image](/images/D5286-03.jpg)
 
 I am a Reader in Unmanned Vehicles at the [Department of Aeronautical and Automotive Engineering (AAE)](https://www.lboro.ac.uk/departments/aae/) (AAE) at Loughborough University, working with [Loughborough University Centre for Autonomous Systems (LUCAS)](https://sites.google.com/a/lucasresearch.co.uk/lucas-research/home).
