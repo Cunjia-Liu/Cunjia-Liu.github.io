@@ -36,7 +36,7 @@ Having worked on some path planning solutions for UAVs, my recent focus is about
 	{% include youtubePlayer.html id="_Sou67QbVqo" %}
 	
 </details>  
-
+<br>
 
 <details>
 	<summary> <b> Coverage path planning </b> </summary>
@@ -55,7 +55,7 @@ By the virtue of the Bayesian framework, we are interested in fusing different s
 	<h3> <a href="https://ieeexplore.ieee.org/abstract/document/10057445"> Structurally aware 3D gas distribution mapping using belief propagation </a>  </h3>
 	{% include youtubePlayer.html id="crAJd4afW8c" %}
 </details>  
-
+<br>
 <details>
 	<summary> <b> Particle filtering with state constraints </b> </summary>
 	<a href="https://ieeexplore.ieee.org/abstract/document/7742936"> An auxiliary particle filtering algorithm with inequality constraints </a>
