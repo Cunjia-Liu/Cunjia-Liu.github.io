@@ -22,7 +22,7 @@ We aim to advance the control design for vehicles and robots with complicated dy
 	<h3> DOBC + MPC for helicopter control  </h3> 
 	{% include youtubePlayer.html id="TXJjf8RHnIk" %}
 	
-</details>
+</details>  
 
 ## Planning for autonomous missions
 ![image](/images/IPP_diagram.png){: style="float: left; margin-right: 0.5em;"} 
@@ -35,7 +35,7 @@ Having worked on some path planning solutions for UAVs, my recent focus is about
 	<h3> Autonomous airbrone search in cluttered environments </h3>
 	{% include youtubePlayer.html id="_Sou67QbVqo" %}
 	
-</details>
+</details>  
 
 
 <details>
@@ -49,19 +49,23 @@ Having worked on some path planning solutions for UAVs, my recent focus is about
 ![image](/images/imm.png){: style="float: left; margin-right: 0.5em;"} 
 By the virtue of the Bayesian framework, we are interested in fusing different sensor information and 'world knowledge' to achieve two primary goals: 1) to establish a better situational awareness for robotic systems operated in a dynamic environment, inlcuding tracking other objects in the environment; 2) to find an effective way to represent and understand environmental features, such as mapping crop disease or chemical gas distributions, based on the data collected by robotic systems.
 
+
 <details>
 	<summary> <b> Robotic environment mapping </b> </summary>
 	<h3> <a href="https://ieeexplore.ieee.org/abstract/document/10057445"> Structurally aware 3D gas distribution mapping using belief propagation </a>  </h3>
 	{% include youtubePlayer.html id="crAJd4afW8c" %}
-</details>
+</details>  
 
 
 <details>
-	<summary> <b> Particle filtering design with state constraints </b> </summary>
+	<summary> <b> Particle filtering with state constraints </b> </summary>
 	<h3> <a href="https://ieeexplore.ieee.org/abstract/document/7742936"> An auxiliary particle filtering algorithm with inequality constraints </a> </h3>
 	<h3> <a href="https://ieeexplore.ieee.org/abstract/document/8676363"> Particle filtering with soft state constraints for target tracking </a> </h3>
 	<img src="/images/CAPF.png" width="50%">
-</details>
+</details>  
+
+
+
 
 
 
