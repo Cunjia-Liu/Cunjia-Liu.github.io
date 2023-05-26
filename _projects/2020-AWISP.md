@@ -12,4 +12,3 @@ ID: "83950"
 
 [More information here](https://gtr.ukri.org/projects?ref=83950)
 
-Fund Research-LinkWorkshop
