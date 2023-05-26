@@ -27,7 +27,7 @@ We aim to advance the control design for vehicles and robots with complicated dy
 
 ## Planning for autonomous missions
 ![image](/images/IPP_diagram.png){: style="float: left; margin-right: 0.5em;"} 
-Having worked on some path planning solutions for UAVs, my recent focus is about informative path planning for environment monitoring. It can be regarded as a paradigm of “planning for data”, where robotic systems under information-driven control are able to take appropriate actions to interrogate the uncertain environment for more informative data or feedback. We have had a lot of success in applying this kind of framework in autonomous search of unknown chemical, biological, radiological releases.  
+Having worked on some path planning solutions for UAVs, my recent focus is about informative path planning for environment monitoring. It can be regarded as a paradigm of “planning for data”, where robotic systems under information-driven control are able to take appropriate actions to interrogate the environment for more informative data or useful feedback. We have had a lot of success in applying this kind of framework in autonomous search of unknown chemical, biological, radiological (CBR) releases.  
 
 <details>
 	<summary> Robotic CBR responses </summary>
