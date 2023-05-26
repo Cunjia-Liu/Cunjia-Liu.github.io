@@ -56,11 +56,10 @@ By the virtue of the Bayesian framework, we are interested in fusing different s
 	{% include youtubePlayer.html id="crAJd4afW8c" %}
 </details>  
 
-
 <details>
 	<summary> <b> Particle filtering with state constraints </b> </summary>
-	<h3> <a href="https://ieeexplore.ieee.org/abstract/document/7742936"> An auxiliary particle filtering algorithm with inequality constraints </a> </h3>
-	<h3> <a href="https://ieeexplore.ieee.org/abstract/document/8676363"> Particle filtering with soft state constraints for target tracking </a> </h3>
+	<a href="https://ieeexplore.ieee.org/abstract/document/7742936"> An auxiliary particle filtering algorithm with inequality constraints </a>
+	<a href="https://ieeexplore.ieee.org/abstract/document/8676363"> Particle filtering with soft state constraints for target tracking </a>
 	<img src="/images/CAPF.png" width="50%">
 </details>  
 
