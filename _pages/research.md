@@ -12,7 +12,7 @@ redirect_from:
 My research sits at the interface between control engineering, informatics and robotics, which focuses on developing innovative algorithms and systematic solutions to Robotics and Autonomous Systems (RAS). With an inspiration to advance their applications in different domains, there is a diverse range of sectors that my research can contribute to, ranging from transport, agriculture, energy to defence and security.
 
 ## Control for vehicle/robot dynamics 
-![image](_image/500x300.png){: style="float: left; margin-right: 1em;"} This part of research focuses on developing advanced control for unmanned vehicles with complicated dynamics, aiming to improve their robustness and performance in adverse environmental conditions. We have developed various disturbance observer based control (DOBC) techniques to compensate the influence of external disturbances, and integrated with model predictive control and control barrier functions to ensure the safety of operation.   
+![image](/_image/500x300.png){: style="float: left; margin-right: 1em;"} This part of research focuses on developing advanced control for unmanned vehicles with complicated dynamics, aiming to improve their robustness and performance in adverse environmental conditions. We have developed various disturbance observer based control (DOBC) techniques to compensate the influence of external disturbances, and integrated with model predictive control and control barrier functions to ensure the safety of operation.   
 <details>
 	<summary> Applications: UAV flight control </summary>
 	
