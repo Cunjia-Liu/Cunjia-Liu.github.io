@@ -41,7 +41,7 @@ Having worked on some path planning solutions for UAVs, my recent focus is about
 <details>
 	<summary> <b> Coverage path planning <b3> </summary>
 	<h3> <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21928"> Decomposition‐based mission planning for fixed‐wing UAVs surveying in wind </a> </h3>
-	<img src="/images/cpp_remotesensing.png">
+	<img src="/images/cpp_remotesensing.png" style="width:100%;">
 	
 </details>
 
