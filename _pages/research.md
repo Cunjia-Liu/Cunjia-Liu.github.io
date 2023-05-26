@@ -46,18 +46,21 @@ Having worked on some path planning solutions for UAVs, my recent focus is about
 </details>
 
 ## Percetion and information fusion 
-We are interested in fusing different sensor information and 'world knowledge' to achieve two primary goals: 1) to establish a better situational awareness for robotic systems operated in a dynamic environment, inlcuding tracking other objects in the environment; 2) to find an effective way to represent and understand environmental features, such as mapping crop disease or chemical gas distributions, based on the data collected by robotic systems.
+![image](/images/imm.png){: style="float: left; margin-right: 0.5em;"} 
+By the virtue of the Bayesian framework, we are interested in fusing different sensor information and 'world knowledge' to achieve two primary goals: 1) to establish a better situational awareness for robotic systems operated in a dynamic environment, inlcuding tracking other objects in the environment; 2) to find an effective way to represent and understand environmental features, such as mapping crop disease or chemical gas distributions, based on the data collected by robotic systems.
 
 <details>
-	<summary> <b> Case study on robotic environment mapping </b> </summary>
+	<summary> <b> Robotic environment mapping </b> </summary>
 	<h3> <a href="https://ieeexplore.ieee.org/abstract/document/10057445"> Structurally aware 3D gas distribution mapping using belief propagation </a>  </h3>
 	{% include youtubePlayer.html id="crAJd4afW8c" %}
 </details>
 
 
 <details>
-	<summary> Particle filtering design </summary>
-	<h3>  </h3>
+	<summary> <b> Particle filtering design with state constraints </b> </summary>
+	<h3> <a href="https://ieeexplore.ieee.org/abstract/document/7742936"> An auxiliary particle filtering algorithm with inequality constraints </a> </h3>
+	<h3> <a href="https://ieeexplore.ieee.org/abstract/document/8676363"> Particle filtering with soft state constraints for target tracking </a> </h3>
+	<img src="/images/CAPF.png" width="50%">
 </details>
 
 
