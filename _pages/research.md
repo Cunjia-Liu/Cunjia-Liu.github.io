@@ -13,7 +13,7 @@ My research sits at the interface between control engineering, informatics and r
 
 ## Control for vehicle/robot dynamics 
 ![image](/images/dobc_diagram.png){: style="float: left; margin-right: 0.5em;"} 
-This part of research focuses on developing advanced control for complicated vehicle dynamics, aiming to improve their robustness and performance in adverse conditions. We have developed various disturbance observer based control (DOBC) techniques to compensate uncertainties and disturbances, and integrated them with other methods to achieve safety-critial control.   
+We aim to advance the control design for systems with complicated dynamics, so as to improve their robustness and performance in adverse conditions. We developed various disturbance observer based control (DOBC) techniques to compensate uncertainties and disturbances, and integrated them with other methods to achieve safety-critial control.   
 
 <details>
 	<summary> Applications: UAV flight control </summary>
