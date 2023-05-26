@@ -17,12 +17,10 @@ We aim to advance the control design for vehicles and robots with complicated dy
 
 <details>
 	<summary> Applications: UAV flight control </summary>
-	
 	<h3> DOBC design for UAV path-folloiwng </h3>
 	{% include youtubePlayer.html id="M_qy1iH7u3M" %}
 	<h3> DOBC + MPC for helicopter control  </h3> 
 	{% include youtubePlayer.html id="TXJjf8RHnIk" %}
-
 </details>
 
 ## Planning for autonomous missions
@@ -31,12 +29,16 @@ Having worked on some path planning solutions for UAVs, my recent focus is about
 
 <details>
 	<summary> Robotic CBR responses </summary>
-	
 	<h3> Information path planning for robotic source term estimation </h3>
 	{% include youtubePlayer.html id="NdbED6RTZyI" %}
 	<h3> Autonomous airbrone search in cluttered environments </h3>
 	{% include youtubePlayer.html id="_Sou67QbVqo" %}
-	
+</details>
+
+<details>
+	<summary> Coverage path planning for agriculture remote sensing </summary>
+	<h3> <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21928"> Decomposition‐based mission planning for fixed‐wing UAVs surveying in wind </a> </h3>
+	![image](/images/cpp_remotesensing.png)
 </details>
 
 ## Percetion and information fusion 
@@ -44,17 +46,13 @@ We are interested in fusing different sensor information and 'world knowledge' t
 
 <details>
 	<summary> Case study on robotic environment mapping </summary>
-
 	<h3> Structurally aware 3D gas distribution mapping using belief propagation </h3>
 	{% include youtubePlayer.html id="crAJd4afW8c" %}
-	
 </details>
 
 <details>
 	<summary> Particle filtering design </summary>
-
 	<h3>  </h3>
-	
 </details>
 
 
