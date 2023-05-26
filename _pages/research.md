@@ -16,10 +16,10 @@ My research sits at the interface between control engineering, informatics and r
 We aim to advance the control design for vehicles and robots with complicated dynamics and to improve their robustness and performance in adverse conditions. We developed various disturbance observer based control (DOBC) techniques to compensate uncertainties and disturbances, and continue to integrate them with other methods to achieve safety-critial control in dynamic environment.   
 
 <details>
-	 <h3> <summary> Applications: UAV flight control </summary> </h3>
-	<h4> DOBC design for UAV path-folloiwng </h4>
+	<summary> <b> Applications: UAV flight control <\b> </summary> 
+	<h3> DOBC design for UAV path-folloiwng </h3>
 	{% include youtubePlayer.html id="M_qy1iH7u3M" %}
-	<h4> DOBC + MPC for helicopter control  </h4> 
+	<h3> DOBC + MPC for helicopter control  </h3> 
 	{% include youtubePlayer.html id="TXJjf8RHnIk" %}
 	
 </details>
