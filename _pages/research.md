@@ -26,7 +26,7 @@ This part of research focuses on developing advanced control for unmanned vehicl
 
 </details>
 
-
+{% include youtubePlayer.html id=TXJjf8RHnIk %}
 
 
 ## Planning for autonomous missions
