@@ -18,7 +18,7 @@ This part of research focuses on developing advanced control for unmanned vehicl
 	
 	<h3> DOBC design for UAV path-folloiwng </h3>
 	{% include youtubePlayer.html id="M_qy1iH7u3M" %}
-	<p> DOBC + MPC for helicopter  </p>
+	<p> <h4> DOBC + MPC for helicopter  </h4> </p> [Read more](https://www.sciencedirect.com/science/article/pii/S0967066111002358)
 	{% include youtubePlayer.html id="TXJjf8RHnIk" %}
 
 
