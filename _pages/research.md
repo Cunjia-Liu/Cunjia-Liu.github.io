@@ -26,9 +26,10 @@ We aim to advance the control design for vehicles and robots with complicated dy
 </details>
 
 ## Planning for autonomous missions
-I am interested in
+![image](/images/IPP_diagram.png){: style="float: left; margin-right: 0.5em;"} 
+
 <details>
-	<summary> Case study on robotic CBR responses </summary>
+	<summary> Robotic CBR responses </summary>
 	
 	<h3> Information path planning for robotic source term estimation </h3>
 	<h3> Autonomous airbrone search in cluttered environments </h3>
@@ -36,9 +37,7 @@ I am interested in
 </details>
 
 ## Percetion and information fusion 
-We are interested in fusing different sensor information and "world knowledge" to 1) establish a better situational awarenes for robotic systems operated in a dynamical environemnt and 2) find an effective way to represent and understand environment features (e.g., mapping crop disease, chemical gas distributions) based on the data collected by robotic systems.  
-
-We are interested in fusing different sensor information and 'world knowledge' to achieve two primary goals: 1) to establish a better situational awareness for robotic systems operated in a dynamic environment; 2) to find an effective way to represent and understand environmental features, such as mapping crop disease or chemical gas distributions, based on the data collected by robotic systems.
+We are interested in fusing different sensor information and 'world knowledge' to achieve two primary goals: 1) to establish a better situational awareness for robotic systems operated in a dynamic environment, inlcuding tracking other objects in the environment; 2) to find an effective way to represent and understand environmental features, such as mapping crop disease or chemical gas distributions, based on the data collected by robotic systems.
 
 <details>
 	<summary> Case study on robotic environment mapping </summary>
