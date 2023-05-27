@@ -24,6 +24,6 @@ main:
   - title: "Professional services"
     url: /services/
     
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Gallery"
+    url: /gallery/
   
