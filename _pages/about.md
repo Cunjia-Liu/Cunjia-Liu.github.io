@@ -28,8 +28,8 @@ My research focuses on Robotics and Autonomous Systems, with the primary goal of
 
 
 ### News: 
-- <img src="https://img.shields.io/badge/May-2023-lightblue" alt = "May-2023" align="top"> PhD opportunity with [Dr. Sarah Bugby](www.lboro.ac.uk/departments/physics/staff/sarah-bugby) for Energy Resolved-Backscatter X-ray Imaging. I will be the secondary supervisor for the depolyment of the imager on mobile robotics to support safety inspection and asset assessment in Nuclear Decommissioning. [More details](https://www.jobs.ac.uk/job/DAB426/phd-studentship-energy-resolved-backscatter-x-ray-imaging-for-safety-inspection-and-asset-assessment-in-nuclear-decommissioning)
-- <img src="https://img.shields.io/badge/May-2023-lightgrey" alt = "May-2023" align="top"> A new PDRA post will open soon for a UKRI funded project on agriculture/horticulture robotics (perception and SLAM solutions). The post will likely start from September 2023 for 30-36 months. Please contact me if you are interested. 
-- <img src="https://img.shields.io/badge/Mar-2023-lightgrey" alt = "Mar-2023" align="top"> I have been awarded the University Fellowships starting from Oct 2023 for 12 months.
+- <img src="https://img.shields.io/badge/May-2023-lightblue" alt = "May-2023" align="top"> PhD opportunity with [Dr. Sarah Bugby](www.lboro.ac.uk/departments/physics/staff/sarah-bugby) for Energy Resolved-Backscatter X-ray Imaging. I will be the secondary supervisor for the depolyment of the imager on mobile robotics to support safety inspection and asset assessment. [More details](https://www.jobs.ac.uk/job/DAB426/phd-studentship-energy-resolved-backscatter-x-ray-imaging-for-safety-inspection-and-asset-assessment-in-nuclear-decommissioning)
+- <img src="https://img.shields.io/badge/May-2023-lightblue" alt = "May-2023" align="top"> A new PDRA post will open soon for a UKRI funded project on agriculture/horticulture robotics (perception and SLAM solutions). The post will likely start from September 2023 for 30-36 months. Please contact me if you are interested. 
+- <img src="https://img.shields.io/badge/Mar-2023-lightblue" alt = "Mar-2023" align="top"> I have been awarded the University Fellowships starting from Oct 2023 for 12 months.
 
 
