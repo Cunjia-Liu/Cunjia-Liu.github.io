@@ -9,3 +9,7 @@ author_profile: false
 {% for post in site.pages %}
   {% include archive-single.html %}
 {% endfor %}
+
+{% for img in site.images %}
+  {% include gallery.html %}
+{% endfor %}
