@@ -3,7 +3,7 @@
 {% if include.id %}
   {% assign gallery = page.[include.id] %}
 {% else %}
-  {% assign gallery = page.images %}
+  {% assign gallery = page.gallery %}
 {% endif %}
 
 {% if gallery.size == 2 %}
