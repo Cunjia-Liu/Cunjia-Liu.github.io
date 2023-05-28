@@ -6,31 +6,38 @@ author_profile: true
 publications:
 
 # Published online
+  - title: <q>Mesh-Based Consensus Distributed Particle Filtering for Sensor Networks</q>
+    authors: Y. Liu, M. Coombes, <b> C. Liu </b>.
+    venue: "IEEE Transactions on Signal and Information Processing over Networks, 2023."
+    doi: https://doi.org/10.1109/TSIPN.2023.3278469
+    year: online
+    type: journals
+    video: 
   - title: "<q>Structurally Aware 3D Gas Distribution Mapping Using Belief Propagation: A Real-Time Algorithm for Robotic Deployment</q>"
     authors: H Cao, Y Li, <b>C. Liu</b>, S Zhao.
     venue: "IEEE Transactions on Automation Science and Engineering, 2023."
     doi: https://doi.org/10.1109/TASE.2023.3249651
-    year: 2023
+    year: online
     type: journals
   - title: "<q>Structurally Aware 3D Gas Distribution Mapping Using Belief Propagation: A Real-Time Algorithm for Robotic Deployment</q>"
     authors: C. Rhodes, <b>C. Liu</b>, W.-H. Chen.
     venue: "IEEE Transactions on Automation Science and Engineering, 2023."
     doi: https://doi.org/10.1109/TASE.2023.3249651
-    year: 2023
+    year: online
     type: journals
     video: https://youtu.be/crAJd4afW8c
   - title: "<q>Generalized data-driven optimal path planning framework for uniform coverage missions using crop spraying UAVs</q>"
     authors: RV Nanavati, Y Meng, M Coombes, <b>C. Liu</b>.
     venue: "Precision Agriculture, 2023."
     doi: https://doi.org/10.1007/s11119-023-09999-3
-    year: 2023
+    year: online
     type: journals
     video: 
   - title: <q>Hawk‐eye‐inspired perception algorithm of stereo vision for obtaining orchard 3D point cloud navigation map</q>
     authors: Z. Zhang, J. Chen, X. Xu,  <b> C. Liu </b>, Y. Han.
     venue: "CAAI Transactions on Intelligence Technology, 1-15, 2022."
     doi: https://doi.org/10.1049/cit2.12141
-    year: 2022
+    year: online
     type: journals
     video: 
     
@@ -55,7 +62,7 @@ publications:
     authors: Y. Liu, Z. Wang, <b> C. Liu </b>, M. Coombes, W.-H. Chen.
     venue: "IEEE Transactions on Signal and Information Processing over Networks, 8, 883-893, 2022."
     doi: https://doi.org/10.1109/TSIPN.2022.3212318
-    year: online
+    year: 2022
     type: journals
     video: 
   - title: <q>Review of UAV-based autonomous search algorithms for hazardous sources</q>
