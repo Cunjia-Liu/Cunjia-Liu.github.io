@@ -7,6 +7,12 @@ publications:
 
 # Published online
   - title: "<q>Structurally Aware 3D Gas Distribution Mapping Using Belief Propagation: A Real-Time Algorithm for Robotic Deployment</q>"
+    authors: H Cao, Y Li, <b>C. Liu</b>, S Zhao.
+    venue: "IEEE Transactions on Automation Science and Engineering, 2023."
+    doi: https://doi.org/10.1109/TASE.2023.3249651
+    year: 2023
+    type: journals
+  - title: "<q>Structurally Aware 3D Gas Distribution Mapping Using Belief Propagation: A Real-Time Algorithm for Robotic Deployment</q>"
     authors: C. Rhodes, <b>C. Liu</b>, W.-H. Chen.
     venue: "IEEE Transactions on Automation Science and Engineering, 2023."
     doi: https://doi.org/10.1109/TASE.2023.3249651
