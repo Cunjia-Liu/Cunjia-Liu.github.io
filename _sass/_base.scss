@@ -199,6 +199,9 @@ figure {
     border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
+    display: block; /*added*/
+    margin-left: auto;
+    margin-right: auto;
   }
 
   > a {
