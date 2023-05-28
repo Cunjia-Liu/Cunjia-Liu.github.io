@@ -6,11 +6,18 @@ author_profile: true
 publications:
 
 # Published online
-  - title: "<q>A novel algorithm for quantized particle filtering with multiple degrading sensors: degradation estimation and target tracking</q>"
-    authors: Y. Liu, Z. Wang, <b> C. Liu </b>, M. Coombes, W.-H. Chen.
-    venue: "IEEE Transactions on Industrial Informatics, 2022."
-    doi: https://doi.org/10.1109/TII.2022.3176910
-    year: online
+  - title: "<q>Structurally Aware 3D Gas Distribution Mapping Using Belief Propagation: A Real-Time Algorithm for Robotic Deployment</q>"
+    authors: C. Rhodes, <b>C. Liu</b>, W.-H. Chen.
+    venue: "IEEE Transactions on Automation Science and Engineering, 2023."
+    doi: https://doi.org/10.1109/TASE.2023.3249651
+    year: 2023
+    type: journals
+    video: https://youtu.be/crAJd4afW8c
+  - title: "<q>Generalized data-driven optimal path planning framework for uniform coverage missions using crop spraying UAVs</q>"
+    authors: RV Nanavati, Y Meng, M Coombes, <b>C. Liu</b>.
+    venue: "Precision Agriculture, 2023."
+    doi: https://doi.org/10.1007/s11119-023-09999-3
+    year: 2023
     type: journals
     video: 
   - title: <q>Hawk‐eye‐inspired perception algorithm of stereo vision for obtaining orchard 3D point cloud navigation map</q>
@@ -22,6 +29,13 @@ publications:
     video: 
     
 # 2023 journals
+  - title: "<q>A novel algorithm for quantized particle filtering with multiple degrading sensors: degradation estimation and target tracking</q>"
+    authors: Y. Liu, Z. Wang, <b> C. Liu </b>, M. Coombes, W.-H. Chen.
+    venue: "IEEE Transactions on Industrial Informatics, 9(4), 5830-5838, 2023."
+    doi: https://doi.org/10.1109/TII.2022.3176910
+    year: 2023
+    type: journals
+    video: 
   - title: <q>Autonomous search of an airborne release in urban environments using informed tree planning</q>
     authors: C. Rhodes, <b>C. Liu</b>, P. Westoby, W.-H. Chen.
     venue: "Autonomous Robots, 47(1), 1-18, 2023."
