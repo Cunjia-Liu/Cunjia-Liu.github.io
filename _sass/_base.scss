@@ -184,7 +184,7 @@ figure {
   -webkit-box-pack: justify;
           justify-content: space-between;
   -webkit-box-align: center; /*start*/
-          align-items: center; /*flex-start*/
+          align-items: flex-center; /*flex-start*/
   flex-wrap: wrap;
   margin: 2em 0;
 
