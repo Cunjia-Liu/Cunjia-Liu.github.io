@@ -1,7 +1,7 @@
 ---
 title: "Towards More Autonomy for Unmanned Vehicles: Situational Awareness and Decision Making under Uncertainty"
 collection: projects
-type: "Principal Investigator"
+type: "Co-Investigator"
 permalink: /projects/2012-SADMU
 funder: "EPSRC"
 date: 2012-03-01
