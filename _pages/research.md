@@ -34,7 +34,7 @@ Having worked on some path planning solutions for UAVs, my recent focus is about
 	{% include youtubePlayer.html id="NdbED6RTZyI" %}
 	<h3> Autonomous airbrone search in cluttered environments </h3>
 	{% include youtubePlayer.html id="_Sou67QbVqo" %} 
- 	<h4> [Matlab code for working examples](https://github.com/lcj-1234/AutoSTE) </h4>
+ 	[Matlab code for working examples](https://github.com/lcj-1234/AutoSTE) 
 	
 </details>  
 
