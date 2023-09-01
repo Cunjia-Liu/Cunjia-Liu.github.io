@@ -13,7 +13,7 @@ redirect_from:
 
 ![image](/images/D5286-03.jpg)
 
-I am a Reader in Unmanned Vehicles at the [Department of Aeronautical and Automotive Engineering](https://www.lboro.ac.uk/departments/aae/) (AAE) at Loughborough University, working with [Loughborough University Centre for Autonomous Systems](https://sites.google.com/a/lucasresearch.co.uk/lucas-research/home) (LUCAS).
+I am currently a Professor of Robotics and Autonomous Systems at the [Department of Aeronautical and Automotive Engineering](https://www.lboro.ac.uk/departments/aae/) (AAE) at Loughborough University, working with [Loughborough University Centre for Autonomous Systems](https://sites.google.com/a/lucasresearch.co.uk/lucas-research/home) (LUCAS).
 
 I received my PhD in autonomous aerial vehicles from the same department in 2011. After completing my PhD,  I worked briefly at Triumph Actuation & Motion Control Systems-UK Ltd as a control engineer, and then returned to LUCAS as a Research Associate. I joined the Department of AAE as an academic in 2013. 
 
