@@ -17,7 +17,7 @@ redirect_from:
 * Conference Committee
   * Program Chair: The 9th IEEE Smart World Congress 2023, IEEE ICAC'24
   * Conference AE: IEEE ICCA 2019, ICUAS'19, ICUAS'20
-  * Program Committee: ROBOT2022
+  * Technical Program Committee: ROBOT2022, IEEE ICIT2024
 
 ## Grant review 
 * EPSRC peer-review college 
