@@ -18,6 +18,7 @@ Education
 Work experience
 ======
 * Loughborough University, UK
+  * Professor of Robotics and Autonomous Systems, 2023-present
   * Reader in Unmanned Vehicles, 2021-2023
   * Senior Lecturer in Unmanned Vehicles, 2018-2020
   * Lecturer in Unmanned Vehicles, 2013-2018
