@@ -26,7 +26,7 @@ We aim to advance the control design for vehicles and robots with complicated dy
 
 ## Planning for autonomous missions
 ![image](/images/IPP_diagram.png){: style="float: left; margin-right: 0.5em;"} 
-Having worked on some path planning solutions for UAVs, my recent focus is about informative path planning for environment monitoring. It can be regarded as a paradigm of “planning for data”, where robotic systems under information-driven control are able to take appropriate actions to interrogate the environment for more informative data or useful feedback. We have had a lot of success in applying this kind of framework in autonomous search of unknown chemical, biological, radiological (CBR) releases.  
+Having worked on different path planning solutions for UAVs, my recent focus is on informative path planning for robotic environment monitoring and information gathering. It can be regarded as a paradigm of “planning for data”, where robotic systems under information-driven control are able to take appropriate actions to interrogate the environment for more informative data or useful feedback. We have had a lot of success in applying this kind of framework in autonomous search of unknown chemical, biological, radiological (CBR) releases.  
 
 <details>
 	<summary> <b> Robotic CBR responses </b> <sup>(click me)</sup> </summary>
@@ -38,13 +38,14 @@ Having worked on some path planning solutions for UAVs, my recent focus is about
 	
 </details>  
 
-
+<!---
 <details>
 	<summary> <b> Coverage path planning </b> <sup>(click me)</sup> </summary>
 	<h3> <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/rob.21928"> Decomposition‐based mission planning for fixed‐wing UAVs surveying in wind </a> </h3>
 	<img src="/images/cpp_remotesensing.png" width="50%">
 	
 </details>
+-->
 
 ## Percetion and information fusion 
 
