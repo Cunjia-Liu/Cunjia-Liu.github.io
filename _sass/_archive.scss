@@ -28,7 +28,7 @@
 }
 
 .archive__subtitle {
-  margin: 1.414em 0 0;
+  margin: 0.5em 0 0; /* Adjusted the value from 1.414em to 0.5em to control spacing */
   padding-bottom: 0.5em;
   font-size: $type-size-5;
   color: mix(#fff, $gray, 25%);
@@ -225,7 +225,7 @@
     font-size: 1.25rem;
 
     .archive__item-teaser {
-      margin-bottom: 2em;
+      margin-bottom: 1em;
     }
 
     @include breakpoint($small) {
