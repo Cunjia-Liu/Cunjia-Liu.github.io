@@ -6,10 +6,10 @@ author_profile: true
 publications:
 
 # Published online
-  - title: <q>Mesh-Based Consensus Distributed Particle Filtering for Sensor Networks</q>
-    authors: Y. Liu, M. Coombes, <b> C. Liu </b>.
-    venue: "IEEE Transactions on Signal and Information Processing over Networks, 2023."
-    doi: https://doi.org/10.1109/TSIPN.2023.3278469
+  - title: <q>Surviving Disturbances: A Predictive Control Framework With Guaranteed Safety</q>
+    authors: Y. Yan, X.-F. Wang, B. J. Marshall, <b> C. Liu </b>, J. Yang, W.-H. Chen .
+    venue: "Automatica, 2023."
+    doi: 
     year: online
     type: journals
     video: 
@@ -26,26 +26,34 @@ publications:
     year: online
     type: journals
     video: https://youtu.be/crAJd4afW8c
-  - title: "<q>Generalized data-driven optimal path planning framework for uniform coverage missions using crop spraying UAVs</q>"
-    authors: RV Nanavati, Y Meng, M Coombes, <b>C. Liu</b>.
-    venue: "Precision Agriculture, 2023."
-    doi: https://doi.org/10.1007/s11119-023-09999-3
-    year: online
-    type: journals
-    video: 
-  - title: <q>Hawk‐eye‐inspired perception algorithm of stereo vision for obtaining orchard 3D point cloud navigation map</q>
-    authors: Z. Zhang, J. Chen, X. Xu,  <b> C. Liu </b>, Y. Han.
-    venue: "CAAI Transactions on Intelligence Technology, 1-15, 2022."
-    doi: https://doi.org/10.1049/cit2.12141
-    year: online
-    type: journals
-    video: 
+
     
 # 2023 journals
+  - title: <q>Detection of Rice Pests Based on Self-Attention Mechanism and Multi-Scale Feature Fusion</q>
+    authors: Y. Hu, X. Deng, Y. Lan, X. Chen, Y. Long, <b> C. Liu </b>.
+    venue: "Insects, 14(3), 280, 2023."
+    doi: https://doi.org/10.3390/insects14030280
+    year: 2023
+    type: journals
+    video: 
+  - title: <q>Mesh-Based Consensus Distributed Particle Filtering for Sensor Networks</q>
+    authors: Y. Liu, M. Coombes, <b> C. Liu </b>.
+    venue: "IEEE Transactions on Signal and Information Processing over Networks, 9, 346-356, 2023."
+    doi: https://doi.org/10.1109/TSIPN.2023.3278469
+    year: 2023
+    type: journals
+    video: 
   - title: "<q>A novel algorithm for quantized particle filtering with multiple degrading sensors: degradation estimation and target tracking</q>"
     authors: Y. Liu, Z. Wang, <b> C. Liu </b>, M. Coombes, W.-H. Chen.
     venue: "IEEE Transactions on Industrial Informatics, 9(4), 5830-5838, 2023."
     doi: https://doi.org/10.1109/TII.2022.3176910
+    year: 2023
+    type: journals
+    video:
+  - title: <q>Hawk‐eye‐inspired perception algorithm of stereo vision for obtaining orchard 3D point cloud navigation map</q>
+    authors: Z. Zhang, J. Chen, X. Xu,  <b> C. Liu </b>, Y. Han.
+    venue: "CAAI Transactions on Intelligence Technology, 8(3), 987–1001, 2023."
+    doi: https://doi.org/10.1049/cit2.12141
     year: 2023
     type: journals
     video: 
@@ -56,6 +64,28 @@ publications:
     year: 2023
     type: journals
     video:
+  - title: "<q>Generalized data-driven optimal path planning framework for uniform coverage missions using crop spraying UAVs</q>"
+    authors: RV Nanavati, Y Meng, M Coombes, <b>C. Liu</b>.
+    venue: "Precision Agriculture, 24, 1497–1525, 2023."
+    doi: https://doi.org/10.1007/s11119-023-09999-3
+    year: 2023
+    type: journals
+    video: 
+# 2023 conferences
+  - title: "Dual Control Inspired Active Sensing for Bearing-Only Target Tracking"
+    authors: T. J. Glover, <b>C. Liu</b>, W. -H. Chen
+    venue: "2023 26th International Conference on Information Fusion (FUSION)."
+    doi: https://doi.org/10.23919/FUSION52260.2023.10224202
+    year: 2023
+    type: conferences
+    video:  
+  - title: "A Novel Disturbance Device for Aerial Manipulation Experiments"
+    authors: B. J. Marshall, J. Knowles, Y. Yan, <b>C. Liu</b>
+    venue: "2023 IEEE International Conference on Mechatronics (ICM)."
+    doi: https://doi.org/10.1109/ICM54990.2023.10101979
+    year: 2023
+    type: conferences
+    video:  
 
 # 2022 journals
   - title: <q>Auxiliary particle filtering over sensor networks under protocols of amplify-and-forward and decode-and-forward relays</q>
@@ -100,7 +130,6 @@ publications:
     year: 2022
     type: journals
     video: https://youtu.be/_Sou67QbVqo
-
   
 # 2022 conferences 
   - title: "Consensus-Based distributed source term estimation with particle filter and GM"
