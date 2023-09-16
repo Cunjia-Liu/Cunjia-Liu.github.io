@@ -7,7 +7,7 @@ publications:
 
 # Published online
   - title: <q>Surviving Disturbances: A Predictive Control Framework With Guaranteed Safety</q>
-    authors: Y. Yan, X.-F. Wang, B. J. Marshall, <b> C. Liu </b>, J. Yang, W.-H. Chen .
+    authors: Y. Yan, X.-F. Wang, B. J. Marshall, <b>C. Liu</b>, J. Yang, W.-H. Chen.
     venue: "Automatica, 2023."
     doi: 
     year: online
