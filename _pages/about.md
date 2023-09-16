@@ -24,6 +24,9 @@ My research focuses on Robotics and Autonomous Systems, with the primary goal of
 > <i class="fa fa-exclamation-circle"></i> **Note** <br>
 > If you are interested in pursuing a PhD in LUCAS, please check the [PhD funding information](https://www.lboro.ac.uk/study/postgraduate/fees-funding/research-degree-funding/) at the university website. There is always the potential to offer PhD scholarships to exceptional candidates. If you find a synergy between your background, interests, and our ongoing research endeavors, please do not hesitate to reach out to me. 
 
+> [!NOTE]
+> try
+
 [//]: # (* Application domain: Smart farming, CBRN defence, Environment monitoring, Infrastructure inspection, Intelligent mobility)
 
 
