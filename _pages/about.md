@@ -15,7 +15,7 @@ redirect_from:
 
 I am currently a Professor of Robotics and Autonomous Systems at the [Department of Aeronautical and Automotive Engineering](https://www.lboro.ac.uk/departments/aae/) (AAE) at Loughborough University, working with [Loughborough University Centre for Autonomous Systems](https://sites.google.com/a/lucasresearch.co.uk/lucas-research/home) (LUCAS).
 
-I received my PhD in autonomous aerial vehicles from the same department in 2011. After completing my PhD,  I worked briefly at Triumph Actuation & Motion Control Systems-UK Ltd as a control engineer, and then returned to LUCAS as a Research Associate. I joined the Department of AAE as an academic in 2013. 
+I earned my PhD in autonomous aerial vehicles from the same department in 2011. After completing my PhD,  I worked briefly at Triumph Actuation & Motion Control Systems-UK Ltd as a control engineer, and then returned to LUCAS as a Research Associate. I joined the Department of AAE as an academic in 2013. 
 
 Prior to joining Loughborough University, I obtained my MSc in Guidance, Navigation and Control (in 2008) and BEng in Control Engineering (in 2005) both from Beihang University (BUAA), China. 
 
@@ -24,7 +24,7 @@ My research focuses on Robotics and Autonomous Systems, with the primary goal of
 > <i class="fa fa-exclamation-circle"></i> **Note** <br>
 > If you are interested in pursuing a PhD in LUCAS, please check the [PhD funding information](https://www.lboro.ac.uk/study/postgraduate/fees-funding/research-degree-funding/) at the university website. There is always the potential to offer PhD scholarships to exceptional candidates. If you find a synergy between your background, interests, and our ongoing research endeavors, please do not hesitate to reach out to me. 
 
-[//]: # (* Application domain: Smart farming, CBRN defence, Infrastructure inspection, Intelligent mobility)
+[//]: # (* Application domain: Smart farming, CBRN defence, Environment monitoring, Infrastructure inspection, Intelligent mobility)
 
 
 ### News: 
