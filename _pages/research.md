@@ -47,7 +47,7 @@ Having worked on different path planning solutions for UAVs, my recent focus is 
 </details>
 -->
 
-## Percetion and information fusion 
+## Perception and information fusion 
 
 By the virtue of the Bayesian framework, we are interested in fusing different sensor information and 'world knowledge' to achieve two primary goals: 1) to establish a better situational awareness for robotic systems operated in a dynamic environment, inlcuding tracking other objects in the environment; 2) to find an effective way to represent and understand environmental features, such as mapping crop disease or chemical gas distributions, based on the data collected by robotic systems.
 
