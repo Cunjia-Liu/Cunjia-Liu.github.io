@@ -4,7 +4,6 @@ title: "Publications"
 layout: publications
 author_profile: true
 publications:
----
 
 # Published online
   - title: <q>Surviving Disturbances: A Predictive Control Framework With Guaranteed Safety</q>
@@ -28,7 +27,6 @@ publications:
     type: journals
     video: https://youtu.be/crAJd4afW8c
 
-    
 # 2023 journals
   - title: <q>Detection of Rice Pests Based on Self-Attention Mechanism and Multi-Scale Feature Fusion</q>
     authors: Y. Hu, X. Deng, Y. Lan, X. Chen, Y. Long, <b> C. Liu </b>.
@@ -71,7 +69,8 @@ publications:
     doi: https://doi.org/10.1007/s11119-023-09999-3
     year: 2023
     type: journals
-    video: 
+    video:
+    
 # 2023 conferences
   - title: "Dual Control Inspired Active Sensing for Bearing-Only Target Tracking"
     authors: T. J. Glover, <b>C. Liu</b>, W. -H. Chen
@@ -168,7 +167,6 @@ publications:
     year: 2022
     type: conferences
     video: 
-
 
 # 2021 journals
   - title: <q>Spectral analysis and mapping of blackgrass weed by leveraging machine learning and UAV multispectral imagery</q>
