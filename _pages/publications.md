@@ -4,6 +4,7 @@ title: "Publications"
 layout: publications
 author_profile: true
 publications:
+---
 
 # Published online
   - title: <q>Surviving Disturbances: A Predictive Control Framework With Guaranteed Safety</q>
