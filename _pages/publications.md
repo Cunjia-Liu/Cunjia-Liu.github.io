@@ -6,7 +6,6 @@ author_profile: true
 publications:
 
 # Published online
-
   - title: "<q>Surviving Disturbances: A Predictive Control Framework With Guaranteed Safety</q>"
     authors: Y. Yan, X.-F. Wang, B. J. Marshall, <b>C. Liu</b>, J. Yang, W.-H. Chen.
     venue: "Automatica, 2023."
@@ -17,9 +16,10 @@ publications:
   - title: "<q>ESO-Based Robust and High-Precision Tracking Control for Aerial Manipulation</q>"
     authors: H Cao, Y Li, <b>C. Liu</b>, S Zhao.
     venue: "IEEE Transactions on Automation Science and Engineering, 2023."
-    doi: https://doi.org/10.1109/TASE.2023.3249651
+    doi: https://doi.org/10.1109/TASE.2023.3260874
     year: online
     type: journals
+    video: https://youtu.be/QMjGtBCUi-E?si=LYzIklmvtyd1zRPN
   - title: "<q>Structurally Aware 3D Gas Distribution Mapping Using Belief Propagation: A Real-Time Algorithm for Robotic Deployment</q>"
     authors: C. Rhodes, <b>C. Liu</b>, W.-H. Chen.
     venue: "IEEE Transactions on Automation Science and Engineering, 2023."
