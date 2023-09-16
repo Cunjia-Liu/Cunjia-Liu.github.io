@@ -3,7 +3,7 @@
    ========================================================================== */
 
 .archive {
-  margin-bottom: 1em; /* Adjusted the value from 2em to 1em to control spacing */
+  margin-bottom: 0.5em; /* Adjusted the value from 2em to 0.5em to control spacing */
 
   @include breakpoint($medium) {
     @include span(12 of 12);
@@ -52,7 +52,7 @@
 .page__content {
 
   .archive__item-title {
-    margin-top: 1em;
+    margin-top: 0.5em; /* Adjusted the value from 1em to 0.5em to control spacing */
     border-bottom: none;
   }
 }
