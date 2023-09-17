@@ -29,14 +29,14 @@ publications:
     video: https://youtu.be/crAJd4afW8c
 
 # 2023 journals
-  - title: <q>Detection of Rice Pests Based on Self-Attention Mechanism and Multi-Scale Feature Fusion</q>
+  - title: "<q>Detection of Rice Pests Based on Self-Attention Mechanism and Multi-Scale Feature Fusion</q>"
     authors: Y. Hu, X. Deng, Y. Lan, X. Chen, Y. Long, <b> C. Liu </b>.
     venue: "Insects, 14(3), 280, 2023."
     doi: https://doi.org/10.3390/insects14030280
     year: 2023
     type: journals
     video: 
-  - title: <q>Mesh-Based Consensus Distributed Particle Filtering for Sensor Networks</q>
+  - title: "<q>Mesh-Based Consensus Distributed Particle Filtering for Sensor Networks</q>"
     authors: Y. Liu, M. Coombes, <b> C. Liu </b>.
     venue: "IEEE Transactions on Signal and Information Processing over Networks, 9, 346-356, 2023."
     doi: https://doi.org/10.1109/TSIPN.2023.3278469
@@ -50,14 +50,14 @@ publications:
     year: 2023
     type: journals
     video:
-  - title: <q>Hawk‐eye‐inspired perception algorithm of stereo vision for obtaining orchard 3D point cloud navigation map</q>
+  - title: "<q>Hawk‐eye‐inspired perception algorithm of stereo vision for obtaining orchard 3D point cloud navigation map</q>"
     authors: Z. Zhang, J. Chen, X. Xu,  <b> C. Liu </b>, Y. Han.
     venue: "CAAI Transactions on Intelligence Technology, 8(3), 987–1001, 2023."
     doi: https://doi.org/10.1049/cit2.12141
     year: 2023
     type: journals
     video: 
-  - title: <q>Autonomous search of an airborne release in urban environments using informed tree planning</q>
+  - title: "<q>Autonomous search of an airborne release in urban environments using informed tree planning</q>"
     authors: C. Rhodes, <b>C. Liu</b>, P. Westoby, W.-H. Chen.
     venue: "Autonomous Robots, 47(1), 1-18, 2023."
     doi: https://doi.org/10.1007/s10514-022-10063-8
@@ -89,14 +89,14 @@ publications:
     video:  
 
 # 2022 journals
-  - title: <q>Auxiliary particle filtering over sensor networks under protocols of amplify-and-forward and decode-and-forward relays</q>
+  - title: "<q>Auxiliary particle filtering over sensor networks under protocols of amplify-and-forward and decode-and-forward relays</q>"
     authors: Y. Liu, Z. Wang, <b> C. Liu </b>, M. Coombes, W.-H. Chen.
     venue: "IEEE Transactions on Signal and Information Processing over Networks, 8, 883-893, 2022."
     doi: https://doi.org/10.1109/TSIPN.2022.3212318
     year: 2022
     type: journals
     video: 
-  - title: <q>Review of UAV-based autonomous search algorithms for hazardous sources</q>
+  - title: "<q>Review of UAV-based autonomous search algorithms for hazardous sources</q>"
     authors: Z. Li,  W.-H. Chen, <b> C. Liu </b>.
     venue: "SCIENTIA SINICA Informationis, 52(9), 1579-1597, 2022. "
     doi: https://doi.org/10.1360/SSI-2022-0044
@@ -110,7 +110,7 @@ publications:
     year: 2022
     type: journals
     video: 
-  - title: <q>Snow Coverage Mapping by Learning from Sentinel-2 Satellite Multispectral Images via Machine Learning Algorithms</q>
+  - title: "<q>Snow Coverage Mapping by Learning from Sentinel-2 Satellite Multispectral Images via Machine Learning Algorithms</q>"
     authors: Y. Wang, J. Su, X. Zhai, F. Meng, <b> C. Liu </b>.
     venue: "Remote Sensing 14 (3), 782, 2022."
     doi: https://doi.org/10.3390/rs14030782
@@ -170,14 +170,14 @@ publications:
     video: 
 
 # 2021 journals
-  - title: <q>Spectral analysis and mapping of blackgrass weed by leveraging machine learning and UAV multispectral imagery</q>
+  - title: "<q>Spectral analysis and mapping of blackgrass weed by leveraging machine learning and UAV multispectral imagery</q>"
     authors: J. Su, D. Yi, M. Coombes, <b> C. Liu </b>, X. Zhai, K. McDonald-Maier, W.-H. Chen.
     venue: "Computers and Electronics in Agriculture, 192, 106621, 2021."
     doi: https://doi.org/10.1016/j.compag.2021.106621
     year: 2021
     type: journals
     video:
-  - title: <q>Dual-layer optimization-based control allocation for a fixed-wing UAV</q>
+  - title: "<q>Dual-layer optimization-based control allocation for a fixed-wing UAV</q>"
     authors: Y. Yan, <b> C. Liu </b>, H. Oh, W.-H. Chen.
     venue: "Aerospace Science and Technology, 119, 107184, 2021."
     doi: https://doi.org/10.1016/j.ast.2021.107184
@@ -198,14 +198,14 @@ publications:
     year: 2021
     type: journals
     video:
-  - title: <q>Dual Control for Exploitation and Exploration (DCEE) in autonomous search</q>
+  - title: "<q>Dual Control for Exploitation and Exploration (DCEE) in autonomous search</q>"
     authors: W.-H. Chen, C. Rhodes, <b> C. Liu </b>.
     venue: "Automatica, 133, 109851, 2021."
     doi: https://doi.org/10.1016/j.automatica.2021.109851
     year: 2021
     type: journals
     video:
-  - title: <q>Optimal Path Following for Small Fixed-Wing UAVs Under Wind Disturbances</q>
+  - title: "<q>Optimal Path Following for Small Fixed-Wing UAVs Under Wind Disturbances</q>"
     authors: J. Yang, <b>C. Liu</b>, M. Coombes, Y. Yan, W.-H. Chen.
     venue: "IEEE Transactions on Control Systems Technology,  29(3), 996-1008, 2020."
     doi: https://doi.org/10.17028/rd.lboro.12124131
