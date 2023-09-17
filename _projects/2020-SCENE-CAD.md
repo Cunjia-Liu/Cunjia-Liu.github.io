@@ -11,3 +11,7 @@ ID: "ST/V00137X/1"
 ---
 
 [More information here](https://gtr.ukri.org/projects?ref=ST%2FV00137X%2F1)
+
+Principal investigator: Dr Cunjia Liu
+Co-Investigators: Dr Matthew Coombes, Dr Jinya Su (University of Essex)
+Research Associates: Dr Yanhua Meng; Dr Yaohua Guo, Dr Rohit Nanavati
