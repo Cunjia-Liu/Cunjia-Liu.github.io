@@ -73,14 +73,14 @@ publications:
     video:
     
 # 2023 conferences
-  - title: "Dual Control Inspired Active Sensing for Bearing-Only Target Tracking"
+  - title: "<q>Dual Control Inspired Active Sensing for Bearing-Only Target Tracking</q>"
     authors: T. J. Glover, <b>C. Liu</b>, W. -H. Chen
     venue: "2023 26th International Conference on Information Fusion (FUSION)."
     doi: https://doi.org/10.23919/FUSION52260.2023.10224202
     year: 2023
     type: conferences
     video:  
-  - title: "A Novel Disturbance Device for Aerial Manipulation Experiments"
+  - title: "<q>A Novel Disturbance Device for Aerial Manipulation Experiments</q>"
     authors: B. J. Marshall, J. Knowles, Y. Yan, <b>C. Liu</b>
     venue: "2023 IEEE International Conference on Mechatronics (ICM)."
     doi: https://doi.org/10.1109/ICM54990.2023.10101979
@@ -133,35 +133,35 @@ publications:
     video: https://youtu.be/_Sou67QbVqo
   
 # 2022 conferences 
-  - title: "Consensus-Based distributed source term estimation with particle filter and GM"
+  - title: "<q>Consensus-Based distributed source term estimation with particle filter and GM</q>"
     authors: Y. Liu, M. Coombes, C. Liu
     venue: "ROBOT2022: Fifth Iberian Robotics Conference."
     doi: 
     year: 2022
     type: conferences
     video:   
-  - title: "Scalable probabilistic gas distribution mapping using Gaussian belief propagation"
+  - title: "<q>Scalable probabilistic gas distribution mapping using Gaussian belief propagation</q>"
     authors: C. Rhodes, C. Liu, W.-H. Chen
     venue: " 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)"
     doi: 
     year: 2022
     type: conferences
     video:   
-  - title: "Deep CNN based droplet deposition segmentation for spray distribution assessment"
+  - title: "<q>Deep CNN based droplet deposition segmentation for spray distribution assessment</q>"
     authors: T. Chen, Y. Meng, J. Su, C. Liu
     venue: "2022 27th International Conference on Automation and Computing (ICAC)"
     doi: 
     year: 2022
     type: conferences
     video: 
-  - title: "Visibility Informed Bernoulli Filter for Target Tracking in Cluttered Environments"
+  - title: "<q>Visibility Informed Bernoulli Filter for Target Tracking in Cluttered Environments</q>"
     authors: T. J. Glover, C. Liu, W.-H. Chen
     venue: "2022 25th International Conference on Information Fusion (FUSION)"
     doi: https://doi.org/10.23919/FUSION49751.2022.9841344
     year: 2022
     type: conferences
     video: 
-  - title: "Energy optimal 3D target tracking using fixed-wing UAV"
+  - title: "<q>Energy optimal 3D target tracking using fixed-wing UAV</q>"
     authors: P. Tyagi, C. Liu, P. B. Sujit
     venue: "2022 International Conference on Unmanned Aircraft Systems (ICUAS)"
     doi: https://doi.org/10.1109/ICUAS54217.2022.9836170
@@ -228,14 +228,14 @@ publications:
     year: 2020
     type: journals
     video: https://youtu.be/NdbED6RTZyI
-  - title: <q>Optimal path following for small fixed-wing UAVs under wind disturbances</q>
+  - title: "<q>Optimal path following for small fixed-wing UAVs under wind disturbances</q>"
     authors: J. Yang, <b> C. Liu </b>, M. Coombes, Y. Yan, W.-H. Chen.
     venue: "IEEE Transactions on Control Systems Technology, 29(3), 996-1008, 2020."
     doi: https://doi.org/10.1109/TCST.2020.2980727
     year: 2020
     type: journals
     video: https://youtu.be/M_qy1iH7u3M
-  - title: <q>On the Actuator Dynamics of Dynamic Control Allocation for a Small Fixed-wing UAV with Direct Lift Control</q>
+  - title: "<q>On the Actuator Dynamics of Dynamic Control Allocation for a Small Fixed-wing UAV with Direct Lift Control</q>"
     authors: Y. Yan, J. Yang, <b>C. Liu</b>, M. Coombes, S. Li, W. Chen.
     venue: "IEEE Transactions on Control Systems Technology, 28(3), 984-991, 2020."
     doi: https://doi.org/10.1109/TCST.2019.2945909
@@ -249,7 +249,7 @@ publications:
     year: 2020
     type: journals
     video:
-  - title: <q>Nonlinearity Estimator-Based Control of A Class of Uncertain Nonlinear Systems</q>
+  - title: "<q>Nonlinearity Estimator-Based Control of A Class of Uncertain Nonlinear Systems</q>"
     authors: J. Yang, T. Li, <b> C. Liu </b>, S. Li, W.-H. Chen.
     venue: "IEEE Transactions on Automatic Control,  65(5), 2230-2236, 2020."
     doi: https://doi.org/10.1109/tac.2019.2940567
@@ -286,35 +286,35 @@ publications:
     year: 2019
     type: journals
     video:
-  - title: <q>Bayesian calibration of AquaCrop model for winter wheat by assimilating UAV multi-spectral images</q>
+  - title: "<q>Bayesian calibration of AquaCrop model for winter wheat by assimilating UAV multi-spectral images</q>"
     authors: T. Zhang, J. Su, <b> C. Liu </b>, W.-H. Chen.
     venue: "Computers and Electronics in Agriculture, 167, 105052, 2019."
     doi: https://doi.org/10.1016/j.compag.2019.105052
     year: 2019
     type: journals
     video:
-  - title: <q>Spatio-temporal monitoring of wheat yellow rust using UAV multispectral imagery</q>
+  - title: "<q>Spatio-temporal monitoring of wheat yellow rust using UAV multispectral imagery</q>"
     authors: J. Su, <b> C. Liu </b>, X. Hu, X. Xu, L. Guo, W.-H. Chen.
     venue: "Computers and Electronics in Agriculture, 167, 105035, 2019."
     doi: https://doi.org/10.1016/j.compag.2019.105035
     year: 2019
     type: journals
     video:
-  - title: <q>Machine learning-based crop drought mapping system by UAV remote sensing RGB imagery</q>
+  - title: "<q>Machine learning-based crop drought mapping system by UAV remote sensing RGB imagery</q>"
     authors: J. Su, M. Coombes, <b> C. Liu </b>, Y. Zhu, X. Song, S. Fang, L. Guo, W.-H. Chen.
     venue: "Unmanned Systems, 8(1), 71-83, 2019."
     doi: https://doi.org/10.1142/S2301385020500053
     year: 2019
     type: journals
     video:
-  - title: <q>A machine learning based personalized system for driving state recognition</q>
+  - title: "<q>A machine learning based personalized system for driving state recognition</q>"
     authors: D. Yi, J. Su, <b>C. Liu</b>, M. Quddus, W.-H. Chen.
     venue: "Transportation Research Part C: Emerging Technologies,105, 241-261, 2019."
     doi: https://doi.org/10.1016/j.trc.2019.05.042
     year: 2019
     type: journals
     video:
-  - title: <q>Source term estimation of a hazardous airborne release using an unmanned aerial vehicle</q>
+  - title: "<q>Source term estimation of a hazardous airborne release using an unmanned aerial vehicle</q>"
     authors: M. Hutchinson, <b>C. Liu</b>, W.-H. Chen.
     venue: "Journal of Field Robotics, 36(4), 797-817, 2019."
     doi: https://doi.org/10.1002/rob.21844
@@ -328,7 +328,7 @@ publications:
     year: 2019
     type: journals
     video:
-  - title: <q>Particle filtering with soft state constraints for target tracking</q>
+  - title: "<q>Particle filtering with soft state constraints for target tracking</q>"
     authors: <b>C. Liu</b>, B. Li, W.-H. Chen.
     venue: "IEEE Transactions on Aerospace and Electronic Systems, 55(6), 3492-3504, 2019."
     doi: https://doi.org/10.1109/TAES.2019.2908292
@@ -342,14 +342,14 @@ publications:
     year: 2019
     type: journals
     video:
-  - title: <q>Personalized driver workload inference by learning from vehicle related measurements</q>
+  - title: "<q>Personalized driver workload inference by learning from vehicle related measurements</q>"
     authors: D. Yi, J. Su, <b>C. Liu</b>, W.-H. Chen.
     venue: "IEEE Transactions on Systems, Man, and Cybernetics: Systems, 49(1), 159-168, 2019."
     doi: https://doi.org/10.1109/TSMC.2017.2764263
     year: 2019
     type: journals
     video:
-  - title: <q>New driver workload prediction using clustering-aided approaches</q>
+  - title: "<q>New driver workload prediction using clustering-aided approaches</q>"
     authors: D. Yi, J. Su, <b>C. Liu</b>, W-H. Chen.
     venue: "IEEE Transactions on Systems, Man, and Cybernetics: Systems, 49(1), 64-70, 2019."
     doi: https://doi.org/10.1109/TSMC.2018.2871416
@@ -358,35 +358,35 @@ publications:
     video:
 
 # 2018 journals
-  - title: <q>Trajectory clustering aided personalized driver intention prediction for intelligent vehicles</q>
+  - title: "<q>Trajectory clustering aided personalized driver intention prediction for intelligent vehicles</q>"
     authors: D. Yi, J. Su, <b>C. Liu</b>, W.-H. Chen.
     venue: "IEEE Transactions on Industrial Informatics, 15(6), 3693-3702, 2018."
     doi: https://doi.org/10.1109/tii.2018.2890141
     year: 2018
     type: journals
     video:
-  - title: <q> Wheat yellow rust monitoring by learning from multispectral UAV aerial imagery </q>
+  - title: "<q> Wheat yellow rust monitoring by learning from multispectral UAV aerial imagery </q>"
     authors: J. Su, <b>C. Liu</b>, M. Coombes, X. Hu, C. Wang, X. Xu, Q. Li, L. Guo, W.-H. Chen.
     venue: "Computers and Electronics in Agriculture, 155, 157-166, 2018."
     doi: https://doi.org/10.1016/j.compag.2018.10.017
     year: 2018
     type: journals
     video:
-  - title: <q>Nonlinear robust control of tail-sitter aircrafts in flight mode transitions</q>
+  - title: "<q>Nonlinear robust control of tail-sitter aircrafts in flight mode transitions</q>"
     authors: Z. Li, L. Zhang, H. Liu, Z. Zuo, <b>C. Liu</b>.
     venue: "Aerospace Science and Technology, 81, 348-361, 2018."
     doi: https://doi.org/10.1016/j.ast.2018.08.021
     year: 2018
     type: journals
     video:
-  - title: <q>Optimal polygon decomposition for UAV survey coverage path planning in wind</q>
+  - title: "<q>Optimal polygon decomposition for UAV survey coverage path planning in wind</q>"
     authors: M. Coombes, T. Fletcher, W.-H. Chen, <b> C. Liu </b>.
     venue: "Sensors, 18(7), 2132, 2018."
     doi: https://doi.org/10.3390/s18072132
     year: 2018
     type: journals
     video:
-  - title: <q>Nonlinear composite bilateral control framework for n-DOF teleoperation systems with disturbances</q>
+  - title: "<q>Nonlinear composite bilateral control framework for n-DOF teleoperation systems with disturbances</q>"
     authors: Z. Zhao, J. Yang, <b> C. Liu </b>, W.-H. Chen.
     venue: "Science China Information Sciences, 61(7), 070221, 2018."
     doi: https://doi.org/10.1007/s11432-017-9341-y
@@ -395,7 +395,7 @@ publications:
     video:
 
 # 2017 journal
-  - title: <q>Disturbance Observer Based Control with Anti-Windup Applied to a Small Fixed Wing UAV for Disturbance Rejection</q>
+  - title: "<q>Disturbance Observer Based Control with Anti-Windup Applied to a Small Fixed Wing UAV for Disturbance Rejection</q>"
     authors: J. Smith, J. Su, <b> C. Liu </b>, W.-H. Chen.
     venue: "Journal of Intelligent and Robotic Systems: Theory and Applications, 88(2-4), 329-346, 2017."
     doi: https://doi.org/10.1007/s10846-017-0534-5
@@ -409,7 +409,7 @@ publications:
     year: 2017
     type: journals
     video:
-  - title: <q>An Auxiliary Particle Filtering Algorithm with Inequality Constraints</q>
+  - title: "<q>An Auxiliary Particle Filtering Algorithm with Inequality Constraints</q>"
     authors: B. Li, <b>C. Liu</b>, W.-H. Chen.
     venue: "IEEE Transactions on Automatic Control, 62(9), 4639-4646, 2017."
     doi: https://doi.org/10.1109/TAC.2016.2624698
@@ -419,35 +419,35 @@ publications:
 
 
 # 2016 journal
-  - title: <q>Online optimisation-based backstepping control design with application to quadrotor</q>
+  - title: "<q>Online optimisation-based backstepping control design with application to quadrotor</q>"
     authors: H. Lu, <b>C. Liu</b>, M. Coombes, L. Guo, W.-H. Chen.
     venue: "IET Control Theory & Applications, 10(14), 1601-1611, 2016."
     doi: https://doi.org/10.1049/iet-cta.2015.0976
     year: 2016
     type: journals
     video:
-  - title: <q>Disturbance rejection flight control for small fixed-wing unmanned aerial vehicles</q>
+  - title: "<q>Disturbance rejection flight control for small fixed-wing unmanned aerial vehicles</q>"
     authors: <b> C. Liu </b> and W.-H. Chen.
     venue: "Journal of Guidance, Control, and Dynamics, 39(12), 2810-2819, 2016."
     doi: https://doi.org/10.2514/1.G001958
     year: 2016
     type: journals
     video:
-  - title: <q>An Enhanced Particle Filtering Method for GMTI Radar Tracking</q>
+  - title: "<q>An Enhanced Particle Filtering Method for GMTI Radar Tracking</q>"
     authors: M. Yu, <b>C. Liu</b>, B. Li, W.-H. Chen.
     venue: "IEEE Transactions on Aerospace and Electronic Systems, 52(3), 1408-1420, 2016."
     doi: https://doi.org/10.1109/TAES.2016.140561
     year: 2016
     type: journals
     video:
-  - title: <q>Enhanced situational awareness for unmanned aerial vehicle operating in terminal areas with circuit flight rules</q>
+  - title: "<q>Enhanced situational awareness for unmanned aerial vehicle operating in terminal areas with circuit flight rules</q>"
     authors: C. Liu, M. Coombes, B. Li, W.-H. Chen.
     venue: "Proceedings of the IMechE, Part G: Journal of Aerospace Engineering, 230(9), 1683-1693, 2016."
     doi: https://doi.org/10.1177/0954410016636156
     year: 2016
     type: journals
     video:
-  - title: <q>Constrained anti-disturbance control for a quadrotor based on differential flatness</q>
+  - title: "<q>Constrained anti-disturbance control for a quadrotor based on differential flatness</q>"
     authors: H. Lu, <b> C. Liu </b>, L. Guo, W.-H. Chen.
     venue: "International Journal of Systems Science, 48(6), 1182-1193, 2016."
     doi: https://doi.org/10.1080/00207721.2016.1244307
@@ -456,63 +456,63 @@ publications:
     video:
 
 # 2010-2015
-  - title: "Flight control design for small-scale helicopter using disturbance observer based backstepping"
+  - title: "<q>Flight control design for small-scale helicopter using disturbance observer based backstepping</q>"
     authors: H. Lu, <b> C. Liu </b>, L. Guo, W.-H. Chen.
     venue: "Journal of Guidance, Control, and Dynamics (AIAA), 38(11), 2235-2240, 2015."
     doi: https://doi.org/10.2514/1.G001196
     year: 2015
     type: journals
     video:
-  - title: <q>An explicit model predictive control framework for turbocharged diesel engines</q>
+  - title: "<q>An explicit model predictive control framework for turbocharged diesel engines</q>"
     authors: D. Zhao, <b> C. Liu </b>, R. Stobart, J. Deng, E. Winward, G. Dong.
     venue: "IEEE Transactions on Industrial Electronics, 61(7), 3540-3552, 2014."
     doi: https://doi.org/10.1109/TIE.2013.2279353
     year: 2014
     type: journals
     video:
-  - title: <q>Path-following control for small fixed-wing unmanned aerial vehicles under wind disturbances</q>
+  - title: "<q>Path-following control for small fixed-wing unmanned aerial vehicles under wind disturbances</q>"
     authors: <b> C. Liu </b>, O. McAree, W.-H. Chen.
     venue: "International Journal of Robust and Nonlinear Control, 23(15), 1682-1698, 2013."
     doi: https://doi.org/10.1002/rnc.2938
     year: 2013
     type: journals
     video:
-  - title: <q>Explicit Non-Linear Model Predictive Control for Autonomous Helicopters</q>
+  - title: "<q>Explicit Non-Linear Model Predictive Control for Autonomous Helicopters</q>"
     authors: <b> C. Liu </b>, W.-H. Chen, J. Andrews
     venue: "Proceedings of the Institution of Mechanical Engineers, Part G: Journal of Aerospace Engineering, 226(9), 1171-1182, 2012."
     doi: https://doi.org/10.1177/0954410011418585
     year: 2012
     type: journals
     video:
-  - title: <q>Tracking control of small-scale helicopters using explicit nonlinear MPC augmented with disturbance observers</q>
+  - title: "<q>Tracking control of small-scale helicopters using explicit nonlinear MPC augmented with disturbance observers</q>"
     authors: <b> C. Liu </b>, W.-H. Chen, J. Andrews.
     venue: "Control Engineering Practice, 20(3), 258-268, 2012."
     doi: https://doi.org/10.1016/j.conengprac.2011.10.015
     year: 2012
     type: journals
     video:
-  - title: <q>Optimization-based safety analysis of obstacle avoidance systems for unmanned aerial vehicles</q>
+  - title: "<q>Optimization-based safety analysis of obstacle avoidance systems for unmanned aerial vehicles</q>"
     authors: S. Srikanthakumar, <b>C. Liu</b>, W.-H. Chen.
     venue: "Journal of Intelligent and Robotic Systems: Theory and Applications, 65(1-4), 219-231, 2012."
     doi: https://doi.org/10.1007/s10846-011-9586-0
     year: 2012
     type: journals
     video:
-  - title: <q>Piecewise constant model predictive control for autonomous helicopters</q>
+  - title: "<q>Piecewise constant model predictive control for autonomous helicopters</q>"
     authors: <b>C. Liu</b>, W.-H. Chen, J. Andrews.
     venue: "Robotics and Autonomous Systems, 59(7-8), 571-579, 2011."
     doi: https://doi.org/10.1016/j.robot.2011.04.004
     year: 2011
     type: journals
     video:
-  - title: <q>Rapid prototyping flight test environment for autonomous unmanned aerial vehicles</q>
+  - title: "<q>Rapid prototyping flight test environment for autonomous unmanned aerial vehicles</q>"
     authors: <b>C. Liu</b>, J. Clarke, W.-H. Chen, J. Andrews.
     venue: "International Journal of Modelling, Identification and Control, 12(3), 200-209, 2011."
     doi: https://doi.org/10.1504/IJMIC.2011.039699
     year: 2011
     type: journals
     video:
-  - title: <q>Experimental Tests of Autonomous Ground Vehicles with Preview</q>
+  - title: "<q>Experimental Tests of Autonomous Ground Vehicles with Preview</q>"
     authors: <b>C. Liu</b>, W.-H. Chen, J. Andrews.
     venue: "International Journal of Automation and Computing, 7(3), 342-348, 2010."
     doi: https://doi.org/10.1007/s11633-010-0513-9
