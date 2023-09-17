@@ -14,7 +14,7 @@ ID: "ST/V00137X/1"
 
 Principal investigator: Dr Cunjia Liu
 
-Co-Investigators: Dr Matthew Coombes, Dr Jinya Su (University of Essex)
+Co-Investigators: Dr Matthew Coombes, Dr Jinya Su (University of Essex), Prof Wen-Hua Chen
 
 Research Associates: Dr Yanhua Meng; Dr Yaohua Guo, Dr Rohit Nanavati
 
