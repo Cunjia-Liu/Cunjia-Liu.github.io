@@ -14,4 +14,4 @@ ID: "98378"
 
 Principal investigator: [Dr Matthew Coombes](https://www.lboro.ac.uk/departments/aae/staff/matthew-coombes/)
 
-Research Associate: Ewan Pugh
+Research Assistant: Ewan Pugh
