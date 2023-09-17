@@ -9,4 +9,6 @@ enddate: 2023-03-31
 value: "£37k"
 ---
 
-NERC discipline hopping project
+NERC discipline hopping project.
+
+Principal Investigator: [Dr Christopher Harvey](https://www.lboro.ac.uk/departments/aae/staff/chris-harvey/)
