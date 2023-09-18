@@ -9,10 +9,10 @@ publications:
   - title: "<q>Surviving Disturbances: A Predictive Control Framework With Guaranteed Safety</q>"
     authors: Y. Yan, X.-F. Wang, B. J. Marshall, <b>C. Liu</b>, J. Yang, W.-H. Chen.
     venue: "Automatica, 2023."
-    doi: 
+    doi: https://doi.org/10.1016/j.automatica.2023.111238
     year: online
     type: journals
-    video: 
+    video: https://youtube.com/playlist?list=PLpeqs1J7TGl2TBLFEa95V-tHL8rarK8TY
   - title: "<q>ESO-Based Robust and High-Precision Tracking Control for Aerial Manipulation</q>"
     authors: H Cao, Y Li, <b>C. Liu</b>, S Zhao.
     venue: "IEEE Transactions on Automation Science and Engineering, 2023."
