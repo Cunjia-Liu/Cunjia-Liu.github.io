@@ -22,7 +22,9 @@ Prior to joining Loughborough University, I obtained my MSc in Guidance, Navigat
 My research focuses on Robotics and Autonomous Systems, with the primary goal of developing advanced functionalities to facilitate and enhance their applications across various domains. I have gained extensive expereince from supervising approximately 10 PhD students and working with 8 Postdoctoral Research Associates (PDRAs) in conducting high-quality research. Throughout my career, I have consistently attracted and successfully delivered multi-million pound [research projects](/projects) in the field of robotics and autonomous systems.
 
 > <i class="fa fa-exclamation-circle"></i> **Note** <br>
-> If you are interested in pursuing a PhD with me, please check [PhD funding info](https://www.lboro.ac.uk/study/postgraduate/fees-funding/research-degree-funding/) at the university website. There is always a potential to offer scholarships to exceptional candidates. If you find a synergy between your background, interests, and our ongoing [research endeavors](research.md), please do not hesitate to contact me. 
+> If you are interested in pursuing a PhD with me, please check [PhD funding info](https://www.lboro.ac.uk/study/postgraduate/fees-funding/research-degree-funding/) at the university website. There is always a potential to offer scholarships to exceptional candidates. If you find a synergy between your background, interests, and our [research endeavors](research.md), please do not hesitate to contact me.
+> * 50 scholarships deom [China Scholarship Council] (https://www.lboro.ac.uk/study/postgraduate/fees-funding/research-degree-funding/china-scholarship-council/)  will be available, application deadline 31 January.
+> * [Commonwealth Scholarships] (https://www.lboro.ac.uk/study/postgraduate/fees-funding/research-degree-funding/commonwealth-scholarships/)
 
 [//]: # (* Application domain: Smart farming, CBRN defence, Environment monitoring, Infrastructure inspection, Intelligent mobility)
 
