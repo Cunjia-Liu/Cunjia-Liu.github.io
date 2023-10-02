@@ -12,7 +12,7 @@ ID: "10073332"
 
 This project is part of UK government's recent initiatives to boost sustainable farming with robotics and automation. More background information please see [this link](https://www.gov.uk/government/news/125m-for-robotics-and-automation-to-boost-sustainable-farming). 
 
-Co-Investigators: 
+Co-Investigators at Loughborough University: 
 * [Dr Matthew Coombes](https://www.lboro.ac.uk/departments/aae/staff/matthew-coombes/)
 * [Prof William Whittow](https://www.lboro.ac.uk/departments/meme/staff/william-whittow/)
 * [Prof Lisa Jackson](https://www.lboro.ac.uk/departments/aae/staff/lisa-jackson/)
