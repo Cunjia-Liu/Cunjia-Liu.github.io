@@ -1,7 +1,7 @@
 ---
 title: "AREA-H: Accelerating Robotics and Embedding Autonomy in Horticulture"
 collection: projects
-type: "LU-Investigator"
+type: "Principal Investigator at LU"
 permalink: /projects/2023-AREA-H
 funder: "Innovate UK"
 date: 2023-09-01
