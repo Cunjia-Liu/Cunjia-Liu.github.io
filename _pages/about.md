@@ -28,6 +28,7 @@ My research focuses on Robotics and Autonomous Systems, with the primary goal of
 
 
 ### News: 
+- <img src="https://img.shields.io/badge/Oct-2023-lightblue" alt = "Oct-2023" align="top"> We have a Postdoc Research associate position opening. More details please see [the advert](https://www.jobs.ac.uk/job/DDK334/research-associate-in-mobile-robotics). 
 - <img src="https://img.shields.io/badge/Aug-2023-lightblue" alt = "Aug-2023" align="top"> I am happy to share that I been awarded a Personal Chair, with an approved title of Professor of Robotics and Autonomous Systems, with effect from 1st september 2023.  
 - <img src="https://img.shields.io/badge/July-2023-lightblue" alt = "July-2023" align="top"> Congratulations to [Dr Callum Rhodes](https://uk.linkedin.com/in/callum-rhodes-0940b6132), who has officially claimed the Doctor title following the summer graduation at Loughborough University. He is now a Dyson Research Fellow at Imperial College London. 
 - <img src="https://img.shields.io/badge/May-2023-lightblue" alt = "May-2023" align="top"> PhD opportunity with [Dr. Sarah Bugby](https://www.lboro.ac.uk/departments/physics/staff/sarah-bugby) for Energy Resolved-Backscatter X-ray Imaging. I will be the secondary supervisor for the depolyment of the imager on mobile robotics to support inspection and asset assessment. [More details here](https://www.jobs.ac.uk/job/DAB426/phd-studentship-energy-resolved-backscatter-x-ray-imaging-for-safety-inspection-and-asset-assessment-in-nuclear-decommissioning).
