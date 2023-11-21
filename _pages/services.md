@@ -12,7 +12,7 @@ redirect_from:
   * IEEE Robotics & Automation Magazine (2023-2025)
   * IEEE Robotics & Automation Letters (2022-2024)
   * IET Cyber-Systems and Robotics
-  * Frontiers in Remote Sensing
+  * Frontiers in Remote Sensing (2020-2023)
   * Drones and Autonomous Vehicles
 * Conference Committee
   * Program Chair: The 9th IEEE Smart World Congress 2023, IEEE ICAC'24
