@@ -14,10 +14,7 @@ ID: "10073332"
 
 This project is part of UK government's recent initiatives to boost sustainable farming with robotics and automation. More background information please see [this link](https://www.gov.uk/government/news/125m-for-robotics-and-automation-to-boost-sustainable-farming). 
 
-![image](/images/AreaH Logo Full.png)
-
-![image](/images/D5286-03.jpg)
-
+![image](/images/AreaH_logo.png)
 
 Co-Investigators at Loughborough University: 
 * [Dr Matthew Coombes](https://www.lboro.ac.uk/departments/aae/staff/matthew-coombes/)
