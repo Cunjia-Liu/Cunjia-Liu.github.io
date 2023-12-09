@@ -10,6 +10,7 @@ value: "£423k/£1.48m"
 ID: "10073332"
 ---
 
+{% include base_path %}
 This project is part of UK government's recent initiatives to boost sustainable farming with robotics and automation. More background information please see [this link](https://www.gov.uk/government/news/125m-for-robotics-and-automation-to-boost-sustainable-farming). 
 
 ![image](/images/AreaH Logo Full.png)
