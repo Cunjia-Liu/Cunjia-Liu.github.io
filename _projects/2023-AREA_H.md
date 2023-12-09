@@ -16,6 +16,9 @@ This project is part of UK government's recent initiatives to boost sustainable 
 
 ![image](/images/AreaH Logo Full.png)
 
+![image](/images/D5286-03.jpg)
+
+
 Co-Investigators at Loughborough University: 
 * [Dr Matthew Coombes](https://www.lboro.ac.uk/departments/aae/staff/matthew-coombes/)
 * [Prof William Whittow](https://www.lboro.ac.uk/departments/meme/staff/william-whittow/)
