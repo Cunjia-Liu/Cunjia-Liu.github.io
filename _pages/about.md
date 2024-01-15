@@ -28,6 +28,7 @@ My research focuses on Robotics and Autonomous Systems, with the primary goal of
 
 
 ### News: 
+- <img src="https://img.shields.io/badge/Jan-2024-lightblue" alt = "Jan-2024" align="top"> We recently have another Agri-tech project (POME: Precision Orchard Management for Environment) kicked off, which aims to use robotic and AI technologies to improve the precision orchard management. A new PDRA will be created for this project.
 - <img src="https://img.shields.io/badge/Oct-2023-lightblue" alt = "Oct-2023" align="top"> We have a Postdoc Research Associate job opening on SLAM for agriculture robotics. More details please see [the advert](https://www.jobs.ac.uk/job/DDK334/research-associate-in-mobile-robotics). 
 - <img src="https://img.shields.io/badge/Aug-2023-lightblue" alt = "Aug-2023" align="top"> I am happy to share that I been awarded a Personal Chair, with an approved title of Professor of Robotics and Autonomous Systems, with effect from 1st september 2023.  
 - <img src="https://img.shields.io/badge/July-2023-lightblue" alt = "July-2023" align="top"> Congratulations to [Dr Callum Rhodes](https://uk.linkedin.com/in/callum-rhodes-0940b6132), who has officially claimed the Doctor title following the summer graduation at Loughborough University. He is now a Dyson Research Fellow at Imperial College London. 
