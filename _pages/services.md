@@ -15,9 +15,10 @@ redirect_from:
   * Frontiers in Remote Sensing (2020-2023)
   * Drones and Autonomous Vehicles
 * Conference Committee
-  * Program Chair: The 9th IEEE Smart World Congress 2023, IEEE ICAC'24
+  * Program Chair: IEEE SWC 2023, IEEE ICAC'24
   * Conference AE: IEEE ICCA 2019, ICUAS'19, ICUAS'20
-  * Technical Program Committee: ROBOT2022, IEEE ICIT2024
+  * Publication Chair: IEEE ICIT 2024
+  * Technical Program Committee: ROBOT 2022, ECMR 2023
 
 ## Grant review 
 * EPSRC peer-review college 
