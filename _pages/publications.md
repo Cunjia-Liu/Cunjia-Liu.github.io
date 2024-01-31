@@ -28,6 +28,21 @@ publications:
     type: journals
     video: https://youtu.be/crAJd4afW8c
 
+# 2024 journals
+  - title: "<q>Fruit tree canopy segmentation from UAV orthophoto maps based on a lightweight improved U-Net</q>"
+    authors: Z. Li, X. Deng, Y. Lan, <b>C. Liu</b>, J. Qing.
+    venue: "Computers and Electronics in Agriculture, 217, 108538, 2024."
+    doi: https://doi.org/10.1016/j.compag.2023.108538
+    year: 2024
+    type: journals
+    video:     
+  - title: "<q>Bayesian estimation and reconstruction of marine surface contaminant dispersion</q>"
+    authors: Y. Liu, C. M. Harvey, F. E. Hamlyn, <b>C. Liu</b>.
+    venue: "Science of The Total Environment, 907, 167973, 2024."
+    doi: https://doi.org/10.1016/j.scitotenv.2023.167973
+    year: 2024
+    type: journals
+    video:    
 # 2023 journals
   - title: "<q>Surviving Disturbances: A Predictive Control Framework With Guaranteed Safety</q>"
     authors: Y. Yan, X.-F. Wang, B. J. Marshall, <b>C. Liu</b>, J. Yang, W.-H. Chen.
