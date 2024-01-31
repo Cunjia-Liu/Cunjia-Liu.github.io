@@ -79,6 +79,7 @@ layout: single
 
     <div id="all-by-year">
         {% assign online_items = page.publications | where: "year", "online" %}
+        {% assign 2026_items = page.publications | where: "year", "2026" %}
         {% assign 2025_items = page.publications | where: "year", "2025" %}
         {% assign 2024_items = page.publications | where: "year", "2024" %}
         {% assign 2023_items = page.publications | where: "year", "2023" %}
@@ -102,19 +103,26 @@ layout: single
         </div>
         
 <!--        
+        <div id="2026-publications">
+            <h3>2026</h3>
+            <ol class="biblist" reversed>
+                {% include papers.html publications=2026_items %}
+            </ol>
+        </div>
         <div id="2025-publications">
             <h3>2025</h3>
             <ol class="biblist" reversed>
                 {% include papers.html publications=2025_items %}
             </ol>
         </div>
+-->        
+        
         <div id="2024-publications">
             <h3>2024</h3>
             <ol class="biblist" reversed>
                 {% include papers.html publications=2024_items %}
             </ol>
         </div>
--->        
         <div id="2023-publications">
             <h3>2023</h3>
             <ol class="biblist" reversed>
