@@ -64,6 +64,13 @@ publications:
     doi: https://doi.org/10.1109/TSIPN.2023.3278469
     year: 2023
     type: journals
+    video:
+  - title: "<q>Potential auto-driving threat: Universal rain-removal attack</q>"
+    authors: J. Hu, J. Li, Z. Hou, J. Jiang, <b> C. Liu </b>, L. Chu, Y. Huang, Y. Zhang.
+    venue: "iScience, 26(9), 107393, 2023."
+    doi: https://doi.org/10.1016/j.isci.2023.107393
+    year: 2023
+    type: journals
     video: 
   - title: "<q>A novel algorithm for quantized particle filtering with multiple degrading sensors: degradation estimation and target tracking</q>"
     authors: Y. Liu, Z. Wang, <b> C. Liu </b>, M. Coombes, W.-H. Chen.
