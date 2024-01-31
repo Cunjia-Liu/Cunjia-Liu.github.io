@@ -10,7 +10,7 @@ publications:
     authors: Z. Li, W.-H. Chen, J. Yang, <b>C. Liu</b>.
     venue: "IEEE Transactions on Neural Networks and Learning Systems, 2024."
     doi: https://doi.org/10.1109/TNNLS.2024.3349467
-    year: 2024
+    year: online
     type: journals
     video: 
   - title: "<q>ESO-Based Robust and High-Precision Tracking Control for Aerial Manipulation</q>"
