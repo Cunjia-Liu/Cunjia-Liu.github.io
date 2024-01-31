@@ -6,13 +6,13 @@ author_profile: true
 publications:
 
 # Published online
-  - title: "<q>Surviving Disturbances: A Predictive Control Framework With Guaranteed Safety</q>"
-    authors: Y. Yan, X.-F. Wang, B. J. Marshall, <b>C. Liu</b>, J. Yang, W.-H. Chen.
-    venue: "Automatica, 2023."
-    doi: https://doi.org/10.1016/j.automatica.2023.111238
-    year: online
+  - title: "<q>Cooperative Active Learning-Based Dual Control for Exploration and Exploitation in Autonomous Search</q>"
+    authors: Z. Li, W.-H. Chen, J. Yang, <b>C. Liu</b>.
+    venue: "IEEE Transactions on Neural Networks and Learning Systems, 2024."
+    doi: https://doi.org/10.1109/TNNLS.2024.3349467
+    year: 2024
     type: journals
-    video: https://youtube.com/playlist?list=PLpeqs1J7TGl2TBLFEa95V-tHL8rarK8TY
+    video: 
   - title: "<q>ESO-Based Robust and High-Precision Tracking Control for Aerial Manipulation</q>"
     authors: H Cao, Y Li, <b>C. Liu</b>, S Zhao.
     venue: "IEEE Transactions on Automation Science and Engineering, 2023."
@@ -29,6 +29,13 @@ publications:
     video: https://youtu.be/crAJd4afW8c
 
 # 2023 journals
+  - title: "<q>Surviving Disturbances: A Predictive Control Framework With Guaranteed Safety</q>"
+    authors: Y. Yan, X.-F. Wang, B. J. Marshall, <b>C. Liu</b>, J. Yang, W.-H. Chen.
+    venue: "Automatica, 158, 111238, 2023."
+    doi: https://doi.org/10.1016/j.automatica.2023.111238
+    year: 2023
+    type: journals
+    video: https://youtube.com/playlist?list=PLpeqs1J7TGl2TBLFEa95V-tHL8rarK8TY
   - title: "<q>Detection of Rice Pests Based on Self-Attention Mechanism and Multi-Scale Feature Fusion</q>"
     authors: Y. Hu, X. Deng, Y. Lan, X. Chen, Y. Long, <b> C. Liu </b>.
     venue: "Insects, 14(3), 280, 2023."
