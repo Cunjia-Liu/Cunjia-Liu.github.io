@@ -28,6 +28,7 @@ My research focuses on Robotics and Autonomous Systems, with the primary goal of
 
 
 ### News: 
+- <img src="https://img.shields.io/badge/Aug-2024-lightblue" alt = "Aug-2024" align="top"> I have served at [ICAC2024](https://cacsuk.co.uk/icac/) as the Program Chair and now start the new cycle as the Genearl Chair of ICAC2025. 
 - <img src="https://img.shields.io/badge/Feb-2024-lightblue" alt = "Feb-2024" align="top"> Welcome [Dr Shuoyuan XU](https://www.linkedin.com/in/shuoyuan-xu-289b1ba8/), who has recently joined us as the PDRA working on the agriculture robotic projects.
 - <img src="https://img.shields.io/badge/Jan-2024-lightblue" alt = "Jan-2024" align="top"> We recently have another Agri-tech project (POME: Precision Orchard Management for Environment) kicked off, which aims to use robotic and AI technologies to improve the precision orchard management. A new PDRA will be created for this project.
 - <img src="https://img.shields.io/badge/Oct-2023-lightblue" alt = "Oct-2023" align="top"> We have a Postdoc Research Associate job opening on SLAM for agriculture robotics. More details please see [the advert](https://www.jobs.ac.uk/job/DDK334/research-associate-in-mobile-robotics). 
