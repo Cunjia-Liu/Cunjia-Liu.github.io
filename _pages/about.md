@@ -28,6 +28,7 @@ My research focuses on Robotics and Autonomous Systems, with the primary goal of
 
 
 ### News: 
+- <img src="https://img.shields.io/badge/Oct-2024-lightblue" alt = "Oct-2024" align="top"> A new Horizon Europe project [AIGreenBots](https://cordis.europa.eu/project/id/101169330) has been kicked-off, which is a MSCA Doctoral Network that will implement inter-and-cross multidisciplinary training, career development and research collaborations for 11 researchers. We will soon look for a doctoral candidate starting from July/Oct 2025.
 - <img src="https://img.shields.io/badge/Oct-2024-lightblue" alt = "Oct-2024" align="top"> Mr Zhipeng Zhong has joined our group as a PhD student, working on autonomous ground robotics for horticulture applications.
 - <img src="https://img.shields.io/badge/Aug-2024-lightblue" alt = "Aug-2024" align="top"> I have served at [ICAC2024](https://cacsuk.co.uk/icac/) as the Program Chair and now start the new cycle as the Genearl Chair of ICAC2025. 
 - <img src="https://img.shields.io/badge/Feb-2024-lightblue" alt = "Feb-2024" align="top"> Welcome [Dr Shuoyuan XU](https://www.linkedin.com/in/shuoyuan-xu-289b1ba8/), who has recently joined us as the PDRA working on the agriculture robotic projects.
