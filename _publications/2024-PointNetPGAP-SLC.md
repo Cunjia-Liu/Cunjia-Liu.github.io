@@ -8,7 +8,7 @@ volume: "9"
 issue: "11"
 pages: "10471-10478"
 doi: "https://doi.org/10.1109/LRA.2024.3475044"
-thumbnail: "/images/papers/horto-3dlm.png"
+thumbnail: "/images/papers/horto-3dlm.jpg"
 video: 
 code: "https://github.com/Cybonic/PointNetPGAP-SLC"
 tags: ["Agritech"]
