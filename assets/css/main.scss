@@ -39,3 +39,122 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+.publications-list {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+/* Title styling */
+.publication-title {
+  font-size: 1.2em; /* Slightly larger font for the title */
+  font-weight: 500;
+  margin: 0 0 0px; /* Add space below the title */
+  color: #1f1f1f; /* Darker color for better visibility */
+}
+
+/* Authors styling */
+.publication-authors {
+  font-size: 1em; /* Default font size for authors */
+  margin: 0 0 0px; /* Add space below the authors */
+  color: #555; /* Slightly lighter color for differentiation */
+}
+
+/* Highlight author's name */
+.publication-authors strong {
+  color: #000000; /* Highlight your name in blue */
+  font-weight: 475;
+}
+
+.publication-entry {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 15px;
+  border: 0.5px solid #ddd;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+.publication-thumbnail img {
+  max-width: 200px;
+  max-height: 200px;
+  object-fit: cover;
+  border-radius: 5px;
+  object-fit: cover;
+}
+
+.publication-details {
+  flex: 1;
+}
+
+.publication-details p {
+  margin: 0; /* Remove all default margins for paragraphs */
+  line-height: 1.5; /* Adjust line height for readability */
+}
+
+
+.publication-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap:8px;
+  margin-top: 10px; /* Add a small margin above tags */
+}
+/* Base tag styling */
+.publication-tags .tag {
+  display: inline-block;
+  padding: 4px 8px; /* Add padding for button effect */
+  font-size: 0.8em;
+  font-weight: normal;
+  border-radius: 8px; /* Rounded corners for button effect */
+  text-decoration: none; /* Remove underline for links */
+  line-height: 1; /* Compact line height */
+  margin: 2px; /* Spacing between tags */
+  border: 1px solid transparent; /* Ensure there's a border */
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+/* DOI Tag */
+.publication-tags .tag-doi {
+  background-color: #2874a7; /* Green */
+  color: #fff;
+  border: 1px solid #2874a7; /* Add border color */
+}
+
+.publication-tags .tag-doi:hover {
+  background-color: #5ca76c; /* Darker green on hover */
+}
+
+/* Video Tag */
+.publication-tags .tag-video {
+  background-color: #88cfe2; /* Red */
+  color: #fff;
+  border: 1px solid #88cfe2;
+}
+
+.publication-tags .tag-video:hover {
+  background-color: #e3707c; /* Darker red */
+}
+
+/* Code Tag */
+.publication-tags .tag-code {
+  background-color: #56a7fe; /* Blue */
+  color: #fff;
+  border: 1px solid #56a7fe;
+}
+
+.publication-tags .tag-code:hover {
+  background-color: #0056b3; /* Darker blue */
+}
+
+/* Generic Tag */
+.publication-tags .tag-generic {
+  background-color: #6c757d; /* Gray */
+  color: #fff;
+  border: 1px solid #6c757d;
+}
+
+.publication-tags .tag-generic:hover {
+  background-color: #5a6268; /* Darker gray */
+}

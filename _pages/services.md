@@ -27,4 +27,4 @@ redirect_from:
 ## Administrative services
 * Departmental Research Director (2024 - present)
 * Member of University Dynamic Working Focus Group (2021-2022)
-* Academic probation advisor (2022-present)
+* Academic probation advisor (2022-2024)

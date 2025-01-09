@@ -1,0 +1,52 @@
+{% include base_path %}
+
+<div class="publication-entry">
+    {% if publication.thumbnail %}
+    <div class="publication-thumbnail">
+      <img src="{{ publication.thumbnail }}" alt="Thumbnail for {{ publication.title }}">
+    </div>
+    {% endif %}
+    
+    <div class="publication-details">
+        <!-- Title -->
+        <p class="publication-title">{{ publication.title }}</p>
+    
+        <!-- Authors -->
+        <p class="publication-authors">
+          {% assign author_list = publication.authors | split: "," %}
+          {% for author in author_list %}
+            {% if author contains "Cunjia Liu" or author contains "C Liu" %}
+            <strong>{{ author }}</strong>{% if forloop.last == false %}, {% endif %}
+            {% else %}
+            {{ author }}{% if forloop.last == false %}, {% endif %}
+            {% endif %}
+          {% endfor %}
+        </p>
+    
+        <!-- Journal and Metadata -->
+        <p class="publication-venue">
+          {{ publication.venue }}{% if publication.volume %}, vol.{{ publication.volume }}{% endif %}{% if publication.pages %}, pp. {{ publication.pages }}{% endif %}.
+          {% if publication.year %}
+          ({{ publication.year | year: "%Y" }})
+          {% endif %}
+        </p>
+  
+      <!-- Additional tag section -->
+      <div class="publication-tags">
+        {% if publication.doi %}
+        <a class="tag tag-doi" href="https://doi.org/{{ publication.doi }}">DOI</a>
+        {% endif %}
+        {% if publication.video %}
+        <a class="tag tag-video" href="{{ publication.video }}">Video</a>
+        {% endif %}
+        {% if publication.code %}
+        <a class="tag tag-code" href="{{ publication.code }}">Code</a>
+        {% endif %}
+        {% for tag in publication.tags %}
+        <span class="tag tag-generic">{{ tag }}</span>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  
+  
