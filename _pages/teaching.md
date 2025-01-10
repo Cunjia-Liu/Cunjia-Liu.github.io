@@ -15,7 +15,7 @@ I have teaching experience in aerospace, control and robotics related modules at
 * TTB202 Control Engineering (2013-2019)
 
 ### Contributing lecturer
-* TC012 Spacecraft Engineering  
+* TTC012 Spacecraft Engineering  
 * TTC057 Flight Control Systems
 * TTC045 Rotorcraft Engineering (module suspended)
 
