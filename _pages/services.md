@@ -19,7 +19,7 @@ redirect_from:
   * Program Chair: IEEE SWC 2023, ICAC2024, RiTA2024
   * Conference AE: IEEE ICCA 2019, ICUAS'19, ICUAS'20
   * Publication Chair: IEEE ICIT 2024
-  * Technical Program Committee: ROBOT 2022, ECMR 2023
+  * Technical Program Committee: ROBOT 2022, ECMR 2023, TAROS 2025
 
 ## Grant review 
 * EPSRC peer-review college 
