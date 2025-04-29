@@ -28,6 +28,8 @@ My research focuses on Robotics and Autonomous Systems, with the primary goal of
 
 
 ### News: 
+- <img src="https://img.shields.io/badge/April-2025-lightblue" alt = "April-2025" align="top"> We have several openings for PhD and Post-doc Research Associate positions. More details can be found at [MSCA DC](https://www.jobs.ac.uk/job/DME159/research-associate-in-agri-robotics) and [PDRA](https://www.jobs.ac.uk/job/DMR687/research-associate-in-mobile-robotics).
+- <img src="https://img.shields.io/badge/April-2025-lightblue" alt = "April-2025" align="top"> We’re hosting the 30th International Conference on Automation and Computing (ICAC 2025) at Loughborough University from 27–29 August 2025. More details can be found [here](https://cacsuk.co.uk/icac/).
 - <img src="https://img.shields.io/badge/Oct-2024-lightblue" alt = "Oct-2024" align="top"> A new Horizon Europe project [AIGreenBots](https://cordis.europa.eu/project/id/101169330) has been kicked-off, which is funded by the MSCA Doctoral Network Program. We will soon look for a doctoral candidate in our group to join the consortium with other 10 doctoral candidates starting from July/Oct 2025.
 - <img src="https://img.shields.io/badge/Oct-2024-lightblue" alt = "Oct-2024" align="top"> Mr Zhipeng Zhong has joined our group as a PhD student, working on autonomous ground robotics for horticulture applications.
 - <img src="https://img.shields.io/badge/Aug-2024-lightblue" alt = "Aug-2024" align="top"> I have served at [ICAC2024](https://cacsuk.co.uk/icac/) as the Program Chair and now start the new cycle as the Genearl Chair of ICAC2025. 
