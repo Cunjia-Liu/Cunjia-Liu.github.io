@@ -8,7 +8,7 @@ volume:
 pages: 
 doi: "https://doi.org/10.1109/TMECH.2025.3577488"
 thumbnail: "/images/papers/RDO.gif"
-video: "https://doi.org/10.1109/TMECH.2025.3577488/mm1"
+video: "https://youtu.be/9gKr13WTj-k"
 code: 
 tags: ["DOBC"]
 ---
