@@ -28,6 +28,7 @@ My research focuses on Robotics and Autonomous Systems, with the primary goal of
 
 
 ### News: 
+- <img src="https://img.shields.io/badge/Sep-2025-blue" alt = "Sep-2025" align="top"> A [Nature paper](https://www.nature.com/articles/s41586-025-09575-x) co-authored by Prof. Cunjia Liu introduces the Flying Toolbox — the first demonstration of mid-air tool exchange between drones, advancing the frontier of cooperative aerial manipulation. [Read More](https://www.lboro.ac.uk/news-events/news/2025/september/flying-toolbox/).
 - <img src="https://img.shields.io/badge/April-2025-blue" alt = "April-2025" align="top"> We have several openings for PhD and Post-doc Research Associate positions. More details can be found at [MSCA DC](https://www.jobs.ac.uk/job/DME159/research-associate-in-agri-robotics) and [PDRA](https://www.jobs.ac.uk/job/DMR687/research-associate-in-mobile-robotics).
 - <img src="https://img.shields.io/badge/April-2025-blue" alt = "April-2025" align="top"> We’re hosting the 30th International Conference on Automation and Computing (ICAC 2025) at Loughborough University from 27–29 August 2025. More details can be found [here](https://cacsuk.co.uk/icac/).
 - <img src="https://img.shields.io/badge/Oct-2024-lightblue" alt = "Oct-2024" align="top"> A new Horizon Europe project [AIGreenBots](https://cordis.europa.eu/project/id/101169330) has been kicked-off, which is funded by the MSCA Doctoral Network Program. We will soon look for a doctoral candidate in our group to join the consortium with other 10 doctoral candidates starting from July/Oct 2025.
