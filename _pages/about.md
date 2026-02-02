@@ -29,6 +29,7 @@ My research focuses on Robotics and Autonomous Systems, with the primary goal of
 
 
 ### News: 
+- <img src="https://img.shields.io/badge/Jan-2026-orange" alt = "Jan-2026" align="top"> We’re pleased to welcome Boliang Cai to joing LUCAS as a Research Associate on Agricutlure robotics. 
 - <img src="https://img.shields.io/badge/Oct-2025-blue" alt = "Oct-2025" align="top"> We’re pleased to welcome Dan Rowland and Yuchuan Jin to LUCAS, where they’ll work on information gathering and intelligent navigation for autonomous robots in agriculture scenarios.
 - <img src="https://img.shields.io/badge/Sep-2025-blue" alt = "Sep-2025" align="top"> A [Nature paper](https://www.nature.com/articles/s41586-025-09575-x) co-authored by Prof. Cunjia Liu introduces the Flying Toolbox — the first demonstration of mid-air tool exchange between drones, advancing the frontier of cooperative aerial manipulation. [Read More](https://www.lboro.ac.uk/news-events/news/2025/september/flying-toolbox/).
 - <img src="https://img.shields.io/badge/April-2025-blue" alt = "April-2025" align="top"> We have several openings for PhD and Post-doc Research Associate positions. More details can be found at [MSCA DC](https://www.jobs.ac.uk/job/DME159/research-associate-in-agri-robotics) and [PDRA](https://www.jobs.ac.uk/job/DMR687/research-associate-in-mobile-robotics).
