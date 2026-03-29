@@ -58,6 +58,7 @@ The network provides an environment in which doctoral candidates can gain both s
 - **Prof Cunjia Liu** — Principal Investigator (UK EPSRC guarantee award)
 - **Dr Matthew Coombes** — Co-Investigator
 - **Prof Wen-Hua Chen** — Co-Investigator
+- **Mr Yuchuan Jin** — Doctoral candidate
 
 ## Related doctoral project at Loughborough
 
