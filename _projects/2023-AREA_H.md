@@ -16,11 +16,6 @@ This project is part of UK government's recent initiatives to boost sustainable 
 
 ![image](/images/AreaH_logo.png)
 
-Co-Investigators at Loughborough University: 
-* [Dr Matthew Coombes](https://www.lboro.ac.uk/departments/aae/staff/matthew-coombes/)
-* [Prof William Whittow](https://www.lboro.ac.uk/departments/meme/staff/william-whittow/)
-* [Prof Lisa Jackson](https://www.lboro.ac.uk/departments/aae/staff/lisa-jackson/)
-
 ---
 
 ## Research in AREA-H at Loughborough
@@ -67,7 +62,7 @@ A recent output from the project is **HortiMulti**, a multi-sensor, cross-season
 
 ### PointNetPGAP-SLC: 3D LiDAR-Based Place Recognition for Mobile Robots in Horticulture
 
-Another recent output is our work on **3D LiDAR-based place recognition for horticultural robots**, addressing the ambiguity caused by highly repetitive crop-row structures. This work develops a place-recognition approach tailored to horticultural environments and demonstrates improved retrieval performance, particularly in ambiguous segments where neighbouring rows can appear very similar.
+Another relevant output is our work on **3D LiDAR-based place recognition for horticultural robots** in collaboration with Prof Cristiano Premebida, addressing the ambiguity caused by highly repetitive crop-row structures. This work develops a place-recognition approach tailored to horticultural environments and demonstrates improved retrieval performance, particularly in ambiguous segments where neighbouring rows can appear very similar.
 
 <div style="margin: 1rem 0 1.25rem 0;">
   <a href="https://ieeexplore.ieee.org/abstract/document/10706020" target="_blank" style="display:inline-block; padding:0.35rem 0.7rem; margin-right:0.5rem; border:1px solid #2c7be5; border-radius:999px; text-decoration:none;">Paper</a>
