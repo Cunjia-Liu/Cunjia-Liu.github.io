@@ -1,9 +1,9 @@
 ---
 title: "AIGreenBots: Artificial Intelligence and Sensor-Fusion Systems in Sustainable Robotics for Precision Agriculture"
 collection: projects
-type: "PI of UK EPSRC guarantee award / Beneficiary in EU MSCA DN"
+type: "PI of UK EPSRC guarantee award"
 permalink: /projects/2025-AIGreenBots
-funder: "EPSRC / EU Horizon Europe MSCA-DN"
+funder: "EPSRC / Horizon Europe MSCA-DN"
 date: 2025-06-01
 enddate: 2029-06-30
 value: "£268k (UK award)"
