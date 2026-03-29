@@ -3,10 +3,10 @@ title: "AIGreenBots: Artificial Intelligence and Sensor-Fusion Systems in Sustai
 collection: projects
 type: "PI of UK EPSRC guarantee award / Beneficiary in EU MSCA DN"
 permalink: /projects/2025-AIGreenBots
-funder: "EPSRC  / EU Horizon Europe MSCA-DN"
+funder: "EPSRC / EU Horizon Europe MSCA-DN"
 date: 2025-06-01
 enddate: 2029-06-30
-value: "£267,922 (UK award)"
+value: "£268k (UK award)"
 ID: "EP/Z536325/1"
 ---
 
@@ -16,7 +16,9 @@ AIGreenBots is a **Marie Skłodowska-Curie Actions Doctoral Network (MSCA-DN)** 
 
 For the UK participation, the project is supported through the **EPSRC Horizon Europe Guarantee** award at Loughborough University.
 
-![image](/images/aigreenbots_logo.png)
+<img src="{{ base_path }}/images/aigreenbots_logo.png" 
+     alt="AIGreenBots logo" 
+     style="width: 30%;">
 
 ## Overview
 
