@@ -16,7 +16,7 @@ AIGreenBots is a **Marie Skłodowska-Curie Actions Doctoral Network (MSCA-DN)** 
 
 For the UK participation, the project is supported through the **EPSRC Horizon Europe Guarantee** award at Loughborough University.
 
-![image](/images/AIGreenBots/aigreenbots_logo.png)
+![image](/images/aigreenbots_logo.png)
 
 ## Overview
 
