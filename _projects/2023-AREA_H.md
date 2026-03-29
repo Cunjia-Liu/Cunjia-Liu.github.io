@@ -25,11 +25,11 @@ Co-Investigators at Loughborough University:
 
 ## Research in AREA-H at Loughborough
 
-At Loughborough, our work in AREA-H focuses on **robot localisation, place recognition, and mapping for horticultural robots operating in commercial polytunnel environments**. These environments are particularly challenging for autonomy because they combine long repetitive crop rows, strong perceptual aliasing, dynamic foliage, seasonal appearance variation, reflections from plastic tunnel covers, and often unreliable GNSS.
+At Loughborough, our work in AREA-H focuses on **localisation, place recognition, and mapping for horticultural robots operating in commercial polytunnel environments**. These environments are particularly challenging for autonomy because they combine long repetitive crop rows, strong perceptual aliasing, dynamic foliage, seasonal appearance variation, reflections from plastic tunnel covers, and often unreliable GNSS.
 
 Our research therefore looks at how to make robotic perception and localisation more robust in these realistic agricultural conditions. This includes work on:
 
-- **multi-sensor localisation and mapping** in polytunnels,
+- **multi-sensor and landmark-assited localisation and mapping** in polytunnels,
 - **3D LiDAR-based place recognition** for repetitive horticultural environments,
 - **cross-season robustness** under crop growth and appearance change,
 - **benchmarking and dataset development** for evaluating SLAM and localisation methods in protected horticulture.
@@ -43,14 +43,14 @@ Our research therefore looks at how to make robotic perception and localisation 
 
 ## Platforms and sensing
 
-Our recent experiments use field robotic platforms equipped with **3D LiDAR, RGB cameras, IMU, GNSS and wheel odometry**. In our recent HortiMulti work, the sensing setup includes **two 3D LiDARs, four RGB cameras, an IMU, GNSS and wheel odometry**, enabling the study of visual, LiDAR and multi-sensor SLAM in realistic commercial conditions.
+Our recent experiments use Antobot's Assist robotic platforms equipped with **3D LiDARs, RGB cameras, IMU, GNSS and wheel odometry**. In the AREA-H work, the sensing setup is enhanced by careful calibration and time synchronisation, enabling the study of visual, LiDAR and multi-sensor SLAM in realistic commercial conditions.
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; margin: 1.5rem 0;">
   <div style="flex: 1 1 320px; min-width: 280px;">
     <img src="{{ base_path }}/images/projects/area-h/sensor_setup.png" alt="Sensor setup for horticultural robot platform" style="width: 100%; border-radius: 6px;">
   </div>
   <div style="flex: 1 1 320px; min-width: 280px;">
-    <img src="{{ base_path }}/images/projects/area-h/polytunnel_platform.png" alt="Robot platform operating in a polytunnel" style="width: 100%; border-radius: 6px;">
+    <img src="{{ base_path }}/images/AREA_H/areah platform.png" alt="Robot platform operating in a polytunnel" style="width: 100%; border-radius: 6px;">
   </div>
 </div>
 
