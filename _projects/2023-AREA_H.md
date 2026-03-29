@@ -47,10 +47,10 @@ Our recent experiments use Antobot's Assist robotic platforms equipped with **3D
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; margin: 1.5rem 0;">
   <div style="flex: 1 1 320px; min-width: 280px;">
-    <img src="{{ base_path }}/images/projects/area-h/sensor_setup.png" alt="Sensor setup for horticultural robot platform" style="width: 100%; border-radius: 6px;">
+    <img src="{{ base_path }}/images/AREA_H/areah_platform.png" alt="Sensor setup for horticultural robot platform" style="width: 100%; border-radius: 6px;">
   </div>
   <div style="flex: 1 1 320px; min-width: 280px;">
-    <img src="{{ base_path }}/images/AREA_H/areah_platform.png" alt="Robot platform operating in a polytunnel" style="width: 100%; border-radius: 6px;">
+    <img src="{{ base_path }}/images/AREA_H/raspberryTags.jpg" alt="Robot platform operating in a polytunnel" style="width: 100%; border-radius: 6px;">
   </div>
 </div>
 
