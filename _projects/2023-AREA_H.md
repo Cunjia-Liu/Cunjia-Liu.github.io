@@ -35,7 +35,7 @@ Our research therefore looks at how to make robotic perception and localisation 
 - **benchmarking and dataset development** for evaluating SLAM and localisation methods in protected horticulture.
 
 <div style="margin: 1.5rem 0; text-align: center;">
-  <img src="{{ base_path }}/images/projects/area-h/hortimulti_overview.png" alt="HortiMulti overview in commercial horticultural polytunnels" style="max-width: 100%; border-radius: 6px;">
+  <img src="{{ base_path }}/images/AREA_H/polytunnel_map.png" alt="HortiMulti overview in commercial horticultural polytunnels" style="max-width: 100%; border-radius: 6px;">
   <p style="font-size: 0.9em; color: #666; margin-top: 0.5rem;">
     Multi-sensor data collection and localisation/mapping research in commercial horticultural polytunnels.
   </p>
