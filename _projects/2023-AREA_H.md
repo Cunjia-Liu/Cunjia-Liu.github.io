@@ -78,7 +78,7 @@ The videos below illustrate our recent localisation and mapping work in horticul
   <!-- Video 1 -->
   <div style="flex: 1 1 360px; min-width: 300px;">
     <iframe 
-      src="https://youtu.be/omRrpCsDd24"
+      src="https://www.youtube.com/embed/omRrpCsDd24?si=DUosu1y9OsNRUfz5"
       title="SLAM in polytunnel"
       frameborder="0"
       allowfullscreen
