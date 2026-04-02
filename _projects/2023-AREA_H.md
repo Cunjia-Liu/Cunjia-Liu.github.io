@@ -74,28 +74,35 @@ Another relevant output is our work on **3D LiDAR-based place recognition for ho
 The videos below illustrate our recent localisation and mapping work in horticultural environments.
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; margin: 1.5rem 0;">
+
+  <!-- Video 1 -->
   <div style="flex: 1 1 360px; min-width: 300px;">
-      <iframe 
-        src="https://youtu.be/omRrpCsDd24"
-        title="AREA-H localistion demo"
-        frameborder="0"
-        allowfullscreen
-        style="width: 100%; height: 220px; border-radius: 6px;">
-      </iframe>
+    <iframe 
+      src="https://youtu.be/omRrpCsDd24"
+      title="SLAM in polytunnel"
+      frameborder="0"
+      allowfullscreen
+      style="width: 100%; height: 220px; border-radius: 6px;">
+    </iframe>
     <p style="font-size: 0.9em; color: #666; margin-top: 0.5rem;">
-      Example of multi-sensor localisation with Lidar odometry and AprilTags in a commercial polytunnel.
+      Example of multi-sensor localisation with Lidar odometry and AprilTags in a commercial polytunnel..
     </p>
   </div>
 
+  <!-- Video 2 -->
   <div style="flex: 1 1 360px; min-width: 300px;">
-    <video controls playsinline style="width: 100%; border-radius: 6px;">
-      <source src="{{ base_path }}/images/projects/area-h/place_recognition_demo.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
+    <iframe 
+      src="https://www.youtube.com/embed/VIDEO_ID_2"
+      title="Place recognition demo"
+      frameborder="0"
+      allowfullscreen
+      style="width: 100%; height: 220px; border-radius: 6px;">
+    </iframe>
     <p style="font-size: 0.9em; color: #666; margin-top: 0.5rem;">
-      Example illustrating horticultural place recognition / localisation behaviour.
+      Example of place recognition and localisation behaviour in horticultural environments.
     </p>
   </div>
+
 </div>
 
 ## Outlook
