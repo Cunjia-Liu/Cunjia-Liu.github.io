@@ -76,11 +76,11 @@ The videos below illustrate our recent localisation and mapping work in horticul
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; margin: 1.5rem 0;">
   <div style="flex: 1 1 360px; min-width: 300px;">
     <video controls playsinline style="width: 100%; border-radius: 6px;">
-      <source src="{{ base_path }}/images/projects/area-h/hortimulti_slam_demo.mp4" type="video/mp4">
+      <source src="https://youtu.be/omRrpCsDd24" type="video/mp4">
       Your browser does not support the video tag.
     </video>
     <p style="font-size: 0.9em; color: #666; margin-top: 0.5rem;">
-      Example of multi-sensor localisation and mapping in a commercial polytunnel.
+      Example of multi-sensor localisation with Lidar odometry and AprilTags in a commercial polytunnel.
     </p>
   </div>
 
