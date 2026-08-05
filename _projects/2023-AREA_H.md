@@ -5,7 +5,7 @@ type: "Principal Investigator at LU"
 permalink: /projects/2023-AREA-H
 funder: "Innovate UK"
 date: 2023-09-01
-enddate: 2026-8-31
+enddate: 2026-11-30
 value: "£423k/£1.48m"
 ID: "10073332"
 ---
