@@ -92,7 +92,7 @@ The videos below illustrate our recent localisation and mapping work in horticul
   <!-- Video 2 -->
   <div style="flex: 1 1 360px; min-width: 300px;">
     <iframe 
-      src="https://youtu.be/z_U-5RGkklk"
+      src="https://www.youtube.com/embed/z_U-5RGkklk?si=12gQff2JTzglqLxb"
       title="Place recognition demo"
       frameborder="0"
       allowfullscreen
