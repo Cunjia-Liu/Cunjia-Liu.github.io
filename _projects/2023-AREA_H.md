@@ -92,14 +92,14 @@ The videos below illustrate our recent localisation and mapping work in horticul
   <!-- Video 2 -->
   <div style="flex: 1 1 360px; min-width: 300px;">
     <iframe 
-      src="https://youtu.be/Io7MUxfH0zQ"
+      src="https://youtu.be/z_U-5RGkklk"
       title="Place recognition demo"
       frameborder="0"
       allowfullscreen
       style="width: 100%; height: 220px; border-radius: 6px;">
     </iframe>
     <p style="font-size: 0.9em; color: #666; margin-top: 0.5rem;">
-      Example of place recognition and localisation behaviour in horticultural environments.
+      Example of place recognition and relocalisation behaviour in horticultural environments.
     </p>
   </div>
 
