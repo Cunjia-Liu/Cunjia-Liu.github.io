@@ -10,8 +10,6 @@ doi:
 thumbnail: "https://malfazliu.github.io/xit/assets/xit_overview.png"
 video: "https://youtu.be/j_Bmpg7GrNY"
 code: "https://github.com/malfazliu/XIT-Planner-Exploration-and-Exploitation-Informed-Trees-"
-project: "https://malfazliu.github.io/xit/"
-paper: "https://arxiv.org/abs/2602.13739"
 tags: ["Active Sensing", "IPP", "GDM"]
 ---
 
