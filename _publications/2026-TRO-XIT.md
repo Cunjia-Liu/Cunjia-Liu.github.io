@@ -6,7 +6,7 @@ date: 2026-11-03 # Entry date; update once the journal publication date is confi
 year: 2026
 volume:
 pages:
-doi: "https://ieeexplore.ieee.org/document/11803210"
+doi: "https://doi.org/10.1109/TRO.2026.3752250"
 thumbnail: "https://malfazliu.github.io/xit/assets/xit_overview.png"
 video: "https://youtu.be/j_Bmpg7GrNY"
 code: "https://github.com/malfazliu/XIT-Planner-Exploration-and-Exploitation-Informed-Trees-"
